@@ -1,0 +1,3386 @@
+{
+ "duration": 485.192,
+ "events": [
+  {
+   "scene": "s0_cold",
+   "t": 2,
+   "id": "card_place",
+   "kind": "card",
+   "text": "长江 · 宜宾江段 / 2005—2010 年间 · 某一个春天",
+   "end": 9.7
+  },
+  {
+   "scene": "s0_cold",
+   "t": 9,
+   "id": "particles_in",
+   "kind": "particles"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 22,
+   "end": 22.202513070632435,
+   "id": "title_stroke_1",
+   "kind": "brush_glow",
+   "i": 0,
+   "char": "鲔",
+   "type": "pie"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 22.29,
+   "end": 22.513882871176325,
+   "id": "title_stroke_2",
+   "kind": "brush_glow",
+   "i": 1,
+   "char": "鲔",
+   "type": "zhe"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 22.6,
+   "end": 22.763754837506713,
+   "id": "title_stroke_3",
+   "kind": "brush_glow",
+   "i": 2,
+   "char": "鲔",
+   "type": "shu"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 22.859,
+   "end": 23.196443794989733,
+   "id": "title_stroke_4",
+   "kind": "brush_glow",
+   "i": 3,
+   "char": "鲔",
+   "type": "zhe"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 23.287,
+   "end": 23.369626083143853,
+   "id": "title_stroke_5",
+   "kind": "brush_glow",
+   "i": 4,
+   "char": "鲔",
+   "type": "heng"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 23.448,
+   "end": 23.56782263201699,
+   "id": "title_stroke_6",
+   "kind": "brush_glow",
+   "i": 5,
+   "char": "鲔",
+   "type": "shu"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 23.64,
+   "end": 23.73396609776831,
+   "id": "title_stroke_7",
+   "kind": "brush_glow",
+   "i": 6,
+   "char": "鲔",
+   "type": "heng"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 23.841,
+   "end": 24.027868394218604,
+   "id": "title_stroke_8",
+   "kind": "brush_glow",
+   "i": 7,
+   "char": "鲔",
+   "type": "heng"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 24.146,
+   "end": 24.37502941716682,
+   "id": "title_stroke_9",
+   "kind": "brush_glow",
+   "i": 8,
+   "char": "鲔",
+   "type": "heng"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 24.482,
+   "end": 24.77478134129217,
+   "id": "title_stroke_10",
+   "kind": "brush_glow",
+   "i": 9,
+   "char": "鲔",
+   "type": "pie"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 24.862,
+   "end": 25.11394367466314,
+   "id": "title_stroke_11",
+   "kind": "brush_glow",
+   "i": 10,
+   "char": "鲔",
+   "type": "shu"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 25.233,
+   "end": 25.68279240351542,
+   "id": "title_stroke_12",
+   "kind": "brush_glow",
+   "i": 11,
+   "char": "鲔",
+   "type": "gou"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 25.783,
+   "end": 25.846678857956533,
+   "id": "title_stroke_13",
+   "kind": "brush_glow",
+   "i": 12,
+   "char": "鲔",
+   "type": "heng"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 25.931,
+   "end": 26,
+   "id": "title_stroke_14",
+   "kind": "brush_glow",
+   "i": 13,
+   "char": "鲔",
+   "type": "heng"
+  },
+  {
+   "scene": "s0_cold",
+   "t": 26.2,
+   "id": "title_sub",
+   "kind": "card",
+   "text": "最后一尾白鲟",
+   "end": 29.55
+  },
+  {
+   "scene": "s0_cold",
+   "t": 28.2,
+   "id": "title_dissolve",
+   "kind": "dissolve",
+   "end": 29.936
+  },
+  {
+   "scene": "s1_river",
+   "t": 31,
+   "id": "s1_in",
+   "kind": "fade_in"
+  },
+  {
+   "scene": "s1_river",
+   "t": 37.6,
+   "id": "s1_rostrum",
+   "kind": "swim_by",
+   "dur": 3,
+   "dist": 1.2
+  },
+  {
+   "scene": "s1_river",
+   "t": 47.995,
+   "id": "s1_body",
+   "kind": "swim_by",
+   "dur": 3.4,
+   "dist": 2.5
+  },
+  {
+   "scene": "s1_river",
+   "t": 49.795,
+   "id": "s1_reveal",
+   "kind": "electro_on"
+  },
+  {
+   "scene": "s1_river",
+   "t": 68.305,
+   "id": "s1_scan0",
+   "kind": "scan"
+  },
+  {
+   "scene": "s1_river",
+   "t": 70.805,
+   "id": "s1_scan1",
+   "kind": "scan"
+  },
+  {
+   "scene": "s1_river",
+   "t": 73.305,
+   "id": "s1_scan2",
+   "kind": "scan"
+  },
+  {
+   "scene": "s1_river",
+   "t": 75.415,
+   "id": "s1_rumble",
+   "kind": "ship_approach"
+  },
+  {
+   "scene": "s1_river",
+   "t": 79.025,
+   "id": "s1_bow",
+   "kind": "ship_bow"
+  },
+  {
+   "scene": "s1_river",
+   "t": 79.325,
+   "id": "s1_static",
+   "kind": "electro_off_static"
+  },
+  {
+   "scene": "s1_river",
+   "t": 79.725,
+   "id": "s1_dive",
+   "kind": "dive"
+  },
+  {
+   "scene": "s1_river",
+   "t": 82.525,
+   "id": "s1_peak",
+   "kind": "ship_peak"
+  },
+  {
+   "scene": "s1_river",
+   "t": 83.625,
+   "id": "s1_bottom",
+   "kind": "bottom_hit"
+  },
+  {
+   "scene": "s1_river",
+   "t": 86.025,
+   "id": "s1_prop",
+   "kind": "ship_prop"
+  },
+  {
+   "scene": "s1_river",
+   "t": 87.325,
+   "id": "s1_gone",
+   "kind": "ship_gone"
+  },
+  {
+   "scene": "s1_river",
+   "t": 91.265,
+   "id": "s1_out",
+   "kind": "fade_out"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 92.865,
+   "end": 94.365,
+   "id": "s2_paper_in",
+   "kind": "fade_in"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 94.515,
+   "end": 94.59523216868166,
+   "id": "s2_name1_stroke_1",
+   "kind": "brush",
+   "char": "白",
+   "i": 0,
+   "type": "pie",
+   "speed": 1.05,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 94.621,
+   "end": 94.73354124186177,
+   "id": "s2_name1_stroke_2",
+   "kind": "brush",
+   "char": "白",
+   "i": 1,
+   "type": "shu",
+   "speed": 1.01,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 94.775,
+   "end": 95.0261165325921,
+   "id": "s2_name1_stroke_3",
+   "kind": "brush",
+   "char": "白",
+   "i": 2,
+   "type": "zhe",
+   "speed": 1.03,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.07,
+   "end": 95.14324633892343,
+   "id": "s2_name1_stroke_4",
+   "kind": "brush",
+   "char": "白",
+   "i": 3,
+   "type": "heng",
+   "speed": 1.16,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.181,
+   "end": 95.25584360874014,
+   "id": "s2_name1_stroke_5",
+   "kind": "brush",
+   "char": "白",
+   "i": 4,
+   "type": "heng",
+   "speed": 1.16,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.348,
+   "end": 95.42850894054865,
+   "id": "s2_name1_stroke_6",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 0,
+   "type": "pie",
+   "speed": 1.04,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.458,
+   "end": 95.54708210208469,
+   "id": "s2_name1_stroke_7",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 1,
+   "type": "zhe",
+   "speed": 0.87,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.575,
+   "end": 95.6416188004301,
+   "id": "s2_name1_stroke_8",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 2,
+   "type": "shu",
+   "speed": 0.98,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.673,
+   "end": 95.80602966577283,
+   "id": "s2_name1_stroke_9",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 3,
+   "type": "zhe",
+   "speed": 0.95,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.836,
+   "end": 95.87066712318361,
+   "id": "s2_name1_stroke_10",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 4,
+   "type": "heng",
+   "speed": 1.07,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.896,
+   "end": 95.94384164819871,
+   "id": "s2_name1_stroke_11",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 5,
+   "type": "shu",
+   "speed": 0.95,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 95.968,
+   "end": 96.00531640571354,
+   "id": "s2_name1_stroke_12",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 6,
+   "type": "heng",
+   "speed": 1.08,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.041,
+   "end": 96.11565012394762,
+   "id": "s2_name1_stroke_13",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 7,
+   "type": "heng",
+   "speed": 1.16,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.162,
+   "end": 96.27781842561211,
+   "id": "s2_name1_stroke_14",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 8,
+   "type": "zhe",
+   "speed": 0.93,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.309,
+   "end": 96.35376896508517,
+   "id": "s2_name1_stroke_15",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 9,
+   "type": "heng",
+   "speed": 1.11,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.385,
+   "end": 96.44125300255548,
+   "id": "s2_name1_stroke_16",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 10,
+   "type": "heng",
+   "speed": 1.13,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.479,
+   "end": 96.57055078570995,
+   "id": "s2_name1_stroke_17",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 11,
+   "type": "heng",
+   "speed": 1.17,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.602,
+   "end": 96.77983882804206,
+   "id": "s2_name1_stroke_18",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 12,
+   "type": "zhe",
+   "speed": 0.84,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 96.81,
+   "end": 96.865,
+   "id": "s2_name1_stroke_19",
+   "kind": "brush",
+   "char": "鲟",
+   "i": 13,
+   "type": "dian",
+   "speed": 0.52,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 97.385,
+   "end": 97.45022955740964,
+   "id": "s2_name2_stroke_1",
+   "kind": "brush",
+   "char": "象",
+   "i": 0,
+   "type": "pie",
+   "speed": 0.94,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 97.48,
+   "end": 97.566790699406,
+   "id": "s2_name2_stroke_2",
+   "kind": "brush",
+   "char": "象",
+   "i": 1,
+   "type": "zhe",
+   "speed": 0.85,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 97.601,
+   "end": 97.68590189182419,
+   "id": "s2_name2_stroke_3",
+   "kind": "brush",
+   "char": "象",
+   "i": 2,
+   "type": "dian",
+   "speed": 0.54,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 97.715,
+   "end": 97.87180457750867,
+   "id": "s2_name2_stroke_4",
+   "kind": "brush",
+   "char": "象",
+   "i": 3,
+   "type": "zhe",
+   "speed": 0.94,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 97.909,
+   "end": 97.98525117607208,
+   "id": "s2_name2_stroke_5",
+   "kind": "brush",
+   "char": "象",
+   "i": 4,
+   "type": "heng",
+   "speed": 1.15,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.014,
+   "end": 98.09132788648286,
+   "id": "s2_name2_stroke_6",
+   "kind": "brush",
+   "char": "象",
+   "i": 5,
+   "type": "pie",
+   "speed": 1.41,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.125,
+   "end": 98.2934175064172,
+   "id": "s2_name2_stroke_7",
+   "kind": "brush",
+   "char": "象",
+   "i": 6,
+   "type": "zhe",
+   "speed": 0.95,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.331,
+   "end": 98.39275835662777,
+   "id": "s2_name2_stroke_8",
+   "kind": "brush",
+   "char": "象",
+   "i": 7,
+   "type": "pie",
+   "speed": 1.39,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.43,
+   "end": 98.50638031904899,
+   "id": "s2_name2_stroke_9",
+   "kind": "brush",
+   "char": "象",
+   "i": 8,
+   "type": "pie",
+   "speed": 1.41,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.559,
+   "end": 98.62422376464926,
+   "id": "s2_name2_stroke_10",
+   "kind": "brush",
+   "char": "象",
+   "i": 9,
+   "type": "zhe",
+   "speed": 0.73,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.646,
+   "end": 98.77732131317772,
+   "id": "s2_name2_stroke_11",
+   "kind": "brush",
+   "char": "象",
+   "i": 10,
+   "type": "na",
+   "speed": 0.84,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.874,
+   "end": 98.96295354845446,
+   "id": "s2_name2_stroke_12",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 0,
+   "type": "pie",
+   "speed": 1.05,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 98.995,
+   "end": 99.11052423214349,
+   "id": "s2_name2_stroke_13",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 1,
+   "type": "zhe",
+   "speed": 0.91,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 99.145,
+   "end": 99.23376753992162,
+   "id": "s2_name2_stroke_14",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 2,
+   "type": "shu",
+   "speed": 0.98,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 99.271,
+   "end": 99.46405116621175,
+   "id": "s2_name2_stroke_15",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 3,
+   "type": "zhe",
+   "speed": 0.98,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 99.502,
+   "end": 99.55568378950925,
+   "id": "s2_name2_stroke_16",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 4,
+   "type": "heng",
+   "speed": 1.11,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 99.586,
+   "end": 99.67330408056354,
+   "id": "s2_name2_stroke_17",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 5,
+   "type": "shu",
+   "speed": 0.74,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 99.7,
+   "end": 99.76415460917957,
+   "id": "s2_name2_stroke_18",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 6,
+   "type": "heng",
+   "speed": 1.13,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 99.814,
+   "end": 99.985,
+   "id": "s2_name2_stroke_19",
+   "kind": "brush",
+   "char": "鱼",
+   "i": 7,
+   "type": "heng",
+   "speed": 1.19,
+   "size": "medium"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 102.485,
+   "end": 103.945,
+   "id": "s2_rewind",
+   "kind": "whoosh",
+   "phase": "start"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 103.785,
+   "end": 104.735,
+   "id": "s2_push_in",
+   "kind": "push_in"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 103.945,
+   "id": "s2_rewind_stop",
+   "kind": "whoosh",
+   "phase": "stop"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 112.925,
+   "end": 113.425,
+   "id": "s2_asteroid_streak",
+   "kind": "streak"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 113.425,
+   "id": "s2_asteroid_impact",
+   "kind": "impact"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 113.575,
+   "end": 116.02499999999999,
+   "id": "s2_red_sky",
+   "kind": "wash_spread",
+   "color": "cinnabar"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 113.675,
+   "end": 116.27499999999999,
+   "id": "s2_dino_ash",
+   "kind": "dissolve"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 117.555,
+   "end": 123.455,
+   "id": "s2_mountains_grow",
+   "kind": "wash_grow"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 120.655,
+   "end": 123.05499999999999,
+   "id": "s2_river_reroute",
+   "kind": "stroke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 126.095,
+   "end": 129.095,
+   "id": "s2_humans",
+   "kind": "stroke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 130.295,
+   "end": 130.45480655349084,
+   "id": "s2_wei_stroke_1",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 0,
+   "type": "pie",
+   "speed": 1,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 130.513,
+   "end": 130.68910314971703,
+   "id": "s2_wei_stroke_2",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 1,
+   "type": "zhe",
+   "speed": 0.84,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 130.746,
+   "end": 130.87502270749397,
+   "id": "s2_wei_stroke_3",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 2,
+   "type": "shu",
+   "speed": 0.94,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 130.938,
+   "end": 131.20435113584531,
+   "id": "s2_wei_stroke_4",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 3,
+   "type": "zhe",
+   "speed": 0.92,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 131.264,
+   "end": 131.32933905912546,
+   "id": "s2_wei_stroke_5",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 4,
+   "type": "heng",
+   "speed": 1.03,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 131.38,
+   "end": 131.47518630440265,
+   "id": "s2_wei_stroke_6",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 5,
+   "type": "shu",
+   "speed": 0.92,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 131.522,
+   "end": 131.59623543908097,
+   "id": "s2_wei_stroke_7",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 6,
+   "type": "heng",
+   "speed": 1.05,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 131.667,
+   "end": 131.81508359915688,
+   "id": "s2_wei_stroke_8",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 7,
+   "type": "heng",
+   "speed": 1.12,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 131.894,
+   "end": 132.07496552562367,
+   "id": "s2_wei_stroke_9",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 8,
+   "type": "heng",
+   "speed": 1.13,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 132.147,
+   "end": 132.37728658423418,
+   "id": "s2_wei_stroke_10",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 9,
+   "type": "pie",
+   "speed": 1.13,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 132.435,
+   "end": 132.63352720578473,
+   "id": "s2_wei_stroke_11",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 10,
+   "type": "shu",
+   "speed": 0.97,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 132.713,
+   "end": 133.06829267426158,
+   "id": "s2_wei_stroke_12",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 11,
+   "type": "gou",
+   "speed": 0.98,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 133.135,
+   "end": 133.1851296400499,
+   "id": "s2_wei_stroke_13",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 12,
+   "type": "heng",
+   "speed": 0.98,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 133.241,
+   "end": 133.29500000000002,
+   "id": "s2_wei_stroke_14",
+   "kind": "brush",
+   "char": "鲔",
+   "i": 13,
+   "type": "heng",
+   "speed": 0.99,
+   "size": "large"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 133.395,
+   "id": "s2_note_1",
+   "kind": "brush_small",
+   "char": "季"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 133.578,
+   "id": "s2_note_2",
+   "kind": "brush_small",
+   "char": "春"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 133.761,
+   "id": "s2_note_3",
+   "kind": "brush_small",
+   "char": "之"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 133.944,
+   "id": "s2_note_4",
+   "kind": "brush_small",
+   "char": "月"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 134.238,
+   "end": 139.238,
+   "id": "s2_incense",
+   "kind": "smoke_thin"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 134.309,
+   "id": "s2_note_5",
+   "kind": "brush_small",
+   "char": "天"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 134.492,
+   "id": "s2_note_6",
+   "kind": "brush_small",
+   "char": "子"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 134.675,
+   "id": "s2_note_7",
+   "kind": "brush_small",
+   "char": "始"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 134.858,
+   "id": "s2_note_8",
+   "kind": "brush_small",
+   "char": "乘"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 135.041,
+   "id": "s2_note_9",
+   "kind": "brush_small",
+   "char": "舟"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 135.224,
+   "id": "s2_note_10",
+   "kind": "brush_small",
+   "char": "荐"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 135.407,
+   "id": "s2_note_11",
+   "kind": "brush_small",
+   "char": "鲔"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 135.589,
+   "id": "s2_note_12",
+   "kind": "brush_small",
+   "char": "于"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 135.772,
+   "id": "s2_note_13",
+   "kind": "brush_small",
+   "char": "寝"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 135.955,
+   "id": "s2_note_14",
+   "kind": "brush_small",
+   "char": "庙"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 150.898,
+   "end": 151.458,
+   "id": "s2_sheds",
+   "kind": "stroke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 150.954,
+   "end": 151.178,
+   "id": "s2_chimney_1",
+   "kind": "stroke",
+   "weight": "heavy"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.08,
+   "end": 151.30399999999997,
+   "id": "s2_chimney_2",
+   "kind": "stroke",
+   "weight": "heavy"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.206,
+   "end": 151.42999999999998,
+   "id": "s2_chimney_3",
+   "kind": "stroke",
+   "weight": "heavy"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.274,
+   "end": 152.934,
+   "id": "s2_smoke_1",
+   "kind": "smoke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.332,
+   "end": 151.55599999999998,
+   "id": "s2_chimney_4",
+   "kind": "stroke",
+   "weight": "heavy"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.346,
+   "end": 151.766,
+   "id": "s2_steamship",
+   "kind": "stroke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.4,
+   "end": 153.05999999999997,
+   "id": "s2_smoke_2",
+   "kind": "smoke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.526,
+   "end": 153.18599999999998,
+   "id": "s2_smoke_3",
+   "kind": "smoke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.652,
+   "end": 153.31199999999998,
+   "id": "s2_smoke_4",
+   "kind": "smoke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.668,
+   "end": 152.298,
+   "id": "s2_iron_bridge",
+   "kind": "stroke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 151.716,
+   "end": 153.266,
+   "id": "s2_ship_smoke",
+   "kind": "smoke"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 153.048,
+   "id": "s2_dam_ruler_start",
+   "kind": "ruler_start"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 153.598,
+   "id": "s2_dam_ruler_end",
+   "kind": "ruler_end"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 166.708,
+   "end": 169.308,
+   "id": "s2_sea_line",
+   "kind": "stroke",
+   "weight": "faint"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 175.138,
+   "end": 176.138,
+   "id": "s2_fish_fade_U1",
+   "kind": "fade",
+   "fish": "U1"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 175.438,
+   "end": 176.438,
+   "id": "s2_fish_fade_U3",
+   "kind": "fade",
+   "fish": "U3"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 175.588,
+   "end": 176.588,
+   "id": "s2_fish_fade_U2",
+   "kind": "fade",
+   "fish": "U2"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 176.138,
+   "end": 177.138,
+   "id": "s2_fish_fade_U4",
+   "kind": "fade",
+   "fish": "U4"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 176.888,
+   "end": 178.088,
+   "id": "s2_fish_fade_M",
+   "kind": "fade",
+   "fish": "M"
+  },
+  {
+   "scene": "s2_scroll",
+   "t": 178.338,
+   "id": "s2_last_fish",
+   "kind": "hold",
+   "fish": "C"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 181.648,
+   "id": "date",
+   "kind": "card",
+   "note": "纸上小楷日期淡墨渗出"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 186.228,
+   "id": "net",
+   "kind": "impact",
+   "note": "撞进网"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 186.528,
+   "id": "thrash",
+   "kind": "splatter",
+   "i": 0,
+   "note": "甩尾，墨点飞溅"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 186.888,
+   "id": "thrash",
+   "kind": "splatter",
+   "i": 1,
+   "note": "甩尾，墨点飞溅"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 187.148,
+   "id": "net",
+   "kind": "close",
+   "note": "网收拢"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 187.308,
+   "id": "thrash",
+   "kind": "splatter",
+   "i": 2,
+   "note": "甩尾，墨点飞溅"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 187.828,
+   "id": "splash",
+   "kind": "out_of_water",
+   "note": "被拖出水，画面过曝"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 197.258,
+   "id": "lift",
+   "kind": "strain",
+   "note": "八个人使劲，没抬动"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 199.158,
+   "id": "cloth",
+   "kind": "quilt",
+   "note": "棉被甩上来盖住她"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 200.158,
+   "id": "lift",
+   "kind": "heave",
+   "note": "裹着棉被抬起来"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 203.988,
+   "id": "cloth",
+   "kind": "warm",
+   "dur": 1.8,
+   "note": "棉被特写，赭石暖色洇开"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 206.978,
+   "id": "measure",
+   "kind": "tape",
+   "dur": 1.75,
+   "note": "带刻度的墨线从吻尖量到尾尖"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 210.308,
+   "id": "eggs",
+   "kind": "appear",
+   "dur": 1.4,
+   "note": "腹部隐约的卵点"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 210.49,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 0,
+   "note": "第 1 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 210.73,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 1,
+   "note": "第 2 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 210.97,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 2,
+   "note": "第 3 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 211.21,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 3,
+   "note": "第 4 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 211.45,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 4,
+   "note": "第 5 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 211.69,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 5,
+   "note": "第 6 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 211.93,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 6,
+   "note": "第 7 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 212.17,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 7,
+   "note": "第 8 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 212.41,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 8,
+   "note": "第 9 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 212.65,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 9,
+   "note": "第 10 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 212.89,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 10,
+   "note": "第 11 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 213.13,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 11,
+   "note": "第 12 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 213.37,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 12,
+   "note": "第 13 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 213.61,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 13,
+   "note": "第 14 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 213.85,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 14,
+   "note": "第 15 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 214.09,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 15,
+   "note": "第 16 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 214.33,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 16,
+   "note": "第 17 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 214.57,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 17,
+   "note": "第 18 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 214.81,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 18,
+   "note": "第 19 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 215.05,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 19,
+   "note": "第 20 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 215.29,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 20,
+   "note": "第 21 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 215.53,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 21,
+   "note": "第 22 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 215.77,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 22,
+   "note": "第 23 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 216.01,
+   "id": "stitch",
+   "kind": "needle",
+   "i": 23,
+   "note": "第 24 针穿过"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 216.36,
+   "id": "stitch",
+   "kind": "knot",
+   "note": "打结剪线"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 218.76,
+   "id": "clip",
+   "kind": "tag",
+   "note": "信标扣上背"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 219.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 0,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 221.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 1,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 223.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 2,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 223.64,
+   "id": "release",
+   "kind": "into_water",
+   "note": "放流入水"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 225.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 3,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 226.79,
+   "id": "turn",
+   "kind": "swim",
+   "note": "在下游折返，转身往上游"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 227.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 4,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 229.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 5,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 229.62,
+   "id": "engine",
+   "kind": "start",
+   "note": "夜里跟踪船引擎起"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 231.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 6,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 233.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 7,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 235.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 8,
+   "cut": false,
+   "note": "嘀"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 237.37,
+   "id": "ping",
+   "kind": "beep",
+   "i": 9,
+   "cut": true,
+   "note": "最后一声：圈荡到一半被触礁截断"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 237.6,
+   "id": "crash",
+   "kind": "reef",
+   "note": "触礁：墨炸开，灯晃，画面一抖，嘀声和圈断掉"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 249.55,
+   "id": "lamp",
+   "kind": "out",
+   "dur": 1.2,
+   "note": "远处的灯熄了"
+  },
+  {
+   "scene": "s3_2003",
+   "t": 250.58,
+   "id": "bleed",
+   "kind": "ink",
+   "dur": 2.7499999999999716,
+   "note": "墨洇开铺满画面，变成极深的褐黑"
+  },
+  {
+   "scene": "s4_seven",
+   "t": 253.63,
+   "id": "s4_in",
+   "kind": "fade_in",
+   "dur": 1
+  },
+  {
+   "scene": "s4_seven",
+   "t": 253.93,
+   "id": "s4_ping0",
+   "kind": "tag_ping",
+   "amp": 1,
+   "last": false
+  },
+  {
+   "scene": "s4_seven",
+   "t": 255.93,
+   "id": "s4_ping1",
+   "kind": "tag_ping",
+   "amp": 0.85,
+   "last": false
+  },
+  {
+   "scene": "s4_seven",
+   "t": 255.98,
+   "id": "s4_lapse",
+   "kind": "timelapse",
+   "dur": 3.8703600000000336
+  },
+  {
+   "scene": "s4_seven",
+   "t": 257.93,
+   "id": "s4_ping2",
+   "kind": "tag_ping",
+   "amp": 0.6,
+   "last": false
+  },
+  {
+   "scene": "s4_seven",
+   "t": 259.5,
+   "id": "s4_ping3",
+   "kind": "tag_ping",
+   "amp": 0.28,
+   "last": true
+  },
+  {
+   "scene": "s4_seven",
+   "t": 261.5,
+   "id": "s4_silence",
+   "kind": "tag_dead"
+  },
+  {
+   "scene": "s4_seven",
+   "t": 268.041,
+   "id": "s4_electro",
+   "kind": "electro_on"
+  },
+  {
+   "scene": "s4_seven",
+   "t": 269.541,
+   "id": "s4_pass1",
+   "kind": "boat_pass",
+   "dur": 4.2000000000000455,
+   "fast": true
+  },
+  {
+   "scene": "s4_seven",
+   "t": 272.331,
+   "id": "s4_arrive",
+   "kind": "boat_arrive",
+   "dur": 2.8000000000000114
+  },
+  {
+   "scene": "s4_seven",
+   "t": 272.541,
+   "id": "s4_pass2",
+   "kind": "boat_pass",
+   "dur": 3.7999999999999545,
+   "fast": true
+  },
+  {
+   "scene": "s4_seven",
+   "t": 274.831,
+   "id": "s4_lower",
+   "kind": "hydrophone_down",
+   "dur": 1.8000000000000114
+  },
+  {
+   "scene": "s4_seven",
+   "t": 276.031,
+   "id": "s4_listen",
+   "kind": "hydrophone_listen",
+   "dur": 3.589999999999975
+  },
+  {
+   "scene": "s4_seven",
+   "t": 279.421,
+   "id": "s4_up",
+   "kind": "hydrophone_up",
+   "dur": 1.6
+  },
+  {
+   "scene": "s4_seven",
+   "t": 280.321,
+   "id": "s4_depart",
+   "kind": "boat_leave",
+   "dur": 2.500000000000057
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 282.821,
+   "id": "s5_glow",
+   "kind": "far_glow",
+   "dur": 8.489999999999952
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 283.793,
+   "id": "s5_hb0",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 284.988,
+   "id": "s5_hb1",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 285.855,
+   "id": "s5_hb2",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 286.674,
+   "id": "s5_hb3",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 287.311,
+   "id": "s5_rush",
+   "kind": "rush",
+   "dur": 4
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 287.493,
+   "id": "s5_hb4",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 288.212,
+   "id": "s5_hb5",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 288.801,
+   "id": "s5_hb6",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 289.366,
+   "id": "s5_hb7",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 289.931,
+   "id": "s5_hb8",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 290.496,
+   "id": "s5_hb9",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 291.061,
+   "id": "s5_hb10",
+   "kind": "heartbeat",
+   "who": "HER"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 291.311,
+   "id": "s5_reveal",
+   "kind": "electro_off_cut"
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 291.511,
+   "id": "s5_old_in",
+   "kind": "swim_by",
+   "dur": 3.5,
+   "dist": 3
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 304.313,
+   "id": "s5_mem",
+   "kind": "electro_on_memory",
+   "dur": 5.253999999999962
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 308.767,
+   "id": "s5_mem_out",
+   "kind": "electro_off_fade",
+   "dur": 0.8
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 317.737,
+   "id": "s5_eggs",
+   "kind": "electro_on_eggs",
+   "dur": 5.110000000000014
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 322.047,
+   "id": "s5_eggs_out",
+   "kind": "electro_off_fade",
+   "dur": 0.8
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 328.142,
+   "id": "s5_leave",
+   "kind": "swim_by",
+   "dur": 4,
+   "dist": 1
+  },
+  {
+   "scene": "s5_sturgeon",
+   "t": 332.012,
+   "id": "s5_out",
+   "kind": "fade_out"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 334.212,
+   "id": "s6_in",
+   "kind": "fade_in"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 340.512,
+   "id": "s6_cross",
+   "kind": "swim_by",
+   "dur": 3,
+   "dist": 1.6,
+   "note": "穿过两江分界"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 343.122,
+   "id": "s6_seam",
+   "kind": "cut"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 345.172,
+   "id": "s6_memory",
+   "kind": "electro_on",
+   "note": "回忆：一代代白鲟的光影"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 345.922,
+   "id": "s6_ghost0",
+   "kind": "ghost_in",
+   "i": 0
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 348.222,
+   "id": "s6_ghost1",
+   "kind": "ghost_in",
+   "i": 1
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 350.022,
+   "id": "s6_ghost2",
+   "kind": "ghost_in",
+   "i": 2
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 353.202,
+   "id": "s6_memory_off",
+   "kind": "electro_off"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 353.552,
+   "id": "s6_lapse",
+   "kind": "timelapse_start",
+   "dur": 4.289999999999964
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 353.791,
+   "id": "s6_light25",
+   "kind": "city_light_off",
+   "i": 25
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 353.985,
+   "id": "s6_light29",
+   "kind": "city_light_off",
+   "i": 29
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.12,
+   "id": "s6_light33",
+   "kind": "city_light_off",
+   "i": 33
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.232,
+   "id": "s6_light37",
+   "kind": "city_light_off",
+   "i": 37
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.331,
+   "id": "s6_light41",
+   "kind": "city_light_off",
+   "i": 41
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.421,
+   "id": "s6_light45",
+   "kind": "city_light_off",
+   "i": 45
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.549,
+   "id": "s6_light0",
+   "kind": "city_light_off",
+   "i": 0
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.625,
+   "id": "s6_light4",
+   "kind": "city_light_off",
+   "i": 4
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.698,
+   "id": "s6_light8",
+   "kind": "city_light_off",
+   "i": 8
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.768,
+   "id": "s6_light12",
+   "kind": "city_light_off",
+   "i": 12
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.836,
+   "id": "s6_light16",
+   "kind": "city_light_off",
+   "i": 16
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.901,
+   "id": "s6_light20",
+   "kind": "city_light_off",
+   "i": 20
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 354.965,
+   "id": "s6_light24",
+   "kind": "city_light_off",
+   "i": 24
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.028,
+   "id": "s6_light28",
+   "kind": "city_light_off",
+   "i": 28
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.089,
+   "id": "s6_light32",
+   "kind": "city_light_off",
+   "i": 32
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.149,
+   "id": "s6_light36",
+   "kind": "city_light_off",
+   "i": 36
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.208,
+   "id": "s6_light40",
+   "kind": "city_light_off",
+   "i": 40
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.267,
+   "id": "s6_light44",
+   "kind": "city_light_off",
+   "i": 44
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.414,
+   "id": "s6_light3",
+   "kind": "city_light_off",
+   "i": 3
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.471,
+   "id": "s6_light7",
+   "kind": "city_light_off",
+   "i": 7
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.527,
+   "id": "s6_light11",
+   "kind": "city_light_off",
+   "i": 11
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.583,
+   "id": "s6_light15",
+   "kind": "city_light_off",
+   "i": 15
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.639,
+   "id": "s6_light19",
+   "kind": "city_light_off",
+   "i": 19
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.695,
+   "id": "s6_light23",
+   "kind": "city_light_off",
+   "i": 23
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.75,
+   "id": "s6_light27",
+   "kind": "city_light_off",
+   "i": 27
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.806,
+   "id": "s6_light31",
+   "kind": "city_light_off",
+   "i": 31
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.862,
+   "id": "s6_light35",
+   "kind": "city_light_off",
+   "i": 35
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.919,
+   "id": "s6_light39",
+   "kind": "city_light_off",
+   "i": 39
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 355.975,
+   "id": "s6_light43",
+   "kind": "city_light_off",
+   "i": 43
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.032,
+   "id": "s6_light47",
+   "kind": "city_light_off",
+   "i": 47
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.122,
+   "id": "s6_light2",
+   "kind": "city_light_off",
+   "i": 2
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.181,
+   "id": "s6_light6",
+   "kind": "city_light_off",
+   "i": 6
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.24,
+   "id": "s6_light10",
+   "kind": "city_light_off",
+   "i": 10
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.3,
+   "id": "s6_light14",
+   "kind": "city_light_off",
+   "i": 14
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.361,
+   "id": "s6_light18",
+   "kind": "city_light_off",
+   "i": 18
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.424,
+   "id": "s6_light22",
+   "kind": "city_light_off",
+   "i": 22
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.487,
+   "id": "s6_light26",
+   "kind": "city_light_off",
+   "i": 26
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.553,
+   "id": "s6_light30",
+   "kind": "city_light_off",
+   "i": 30
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.62,
+   "id": "s6_light34",
+   "kind": "city_light_off",
+   "i": 34
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.69,
+   "id": "s6_light38",
+   "kind": "city_light_off",
+   "i": 38
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.762,
+   "id": "s6_light42",
+   "kind": "city_light_off",
+   "i": 42
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.838,
+   "id": "s6_light46",
+   "kind": "city_light_off",
+   "i": 46
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 356.966,
+   "id": "s6_light1",
+   "kind": "city_light_off",
+   "i": 1
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.055,
+   "id": "s6_light5",
+   "kind": "city_light_off",
+   "i": 5
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.153,
+   "id": "s6_light9",
+   "kind": "city_light_off",
+   "i": 9
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.264,
+   "id": "s6_light13",
+   "kind": "city_light_off",
+   "i": 13
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.397,
+   "id": "s6_light17",
+   "kind": "city_light_off",
+   "i": 17
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.492,
+   "id": "s6_bridge",
+   "kind": "city_lights_off",
+   "note": "桥上的灯带熄灭"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.582,
+   "id": "s6_light21",
+   "kind": "city_light_off",
+   "i": 21
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 357.842,
+   "id": "s6_lapse_end",
+   "kind": "timelapse_end"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 358.242,
+   "id": "s6_empty",
+   "kind": "electro_on",
+   "note": "四周是空的"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 362.342,
+   "id": "s6_release",
+   "kind": "electro_off"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 362.842,
+   "id": "s6_spurt0",
+   "kind": "egg_release",
+   "i": 0,
+   "dur": 0.5,
+   "w": 1
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 363.462,
+   "id": "s6_spurt1",
+   "kind": "egg_release",
+   "i": 1,
+   "dur": 0.5,
+   "w": 1.3
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 364.082,
+   "id": "s6_spurt2",
+   "kind": "egg_release",
+   "i": 2,
+   "dur": 0.5,
+   "w": 1.4
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 364.702,
+   "id": "s6_spurt3",
+   "kind": "egg_release",
+   "i": 3,
+   "dur": 0.5,
+   "w": 1.25
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 365.322,
+   "id": "s6_spurt4",
+   "kind": "egg_release",
+   "i": 4,
+   "dur": 0.5,
+   "w": 1
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 365.482,
+   "id": "s6_glow",
+   "kind": "eggs_glow"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 365.482,
+   "id": "s6_glow_wave",
+   "kind": "electro_on"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 365.942,
+   "id": "s6_spurt5",
+   "kind": "egg_release",
+   "i": 5,
+   "dur": 0.5,
+   "w": 0.75
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 366.562,
+   "id": "s6_spurt6",
+   "kind": "egg_release",
+   "i": 6,
+   "dur": 0.5,
+   "w": 0.45
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 372.282,
+   "id": "s6_egg_out0",
+   "kind": "egg_out",
+   "i": 0
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 372.902,
+   "id": "s6_egg_out1",
+   "kind": "egg_out",
+   "i": 1
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 373.402,
+   "id": "s6_egg_out2",
+   "kind": "egg_out",
+   "i": 2
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 373.482,
+   "id": "s6_eggs_dying",
+   "kind": "eggs_dying",
+   "dur": 3.5799999999999725
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 373.782,
+   "id": "s6_egg_out3",
+   "kind": "egg_out",
+   "i": 3
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 374.082,
+   "id": "s6_egg_out4",
+   "kind": "egg_out",
+   "i": 4
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 374.332,
+   "id": "s6_egg_out5",
+   "kind": "egg_out",
+   "i": 5
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 374.552,
+   "id": "s6_egg_out6",
+   "kind": "egg_out",
+   "i": 6
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 374.742,
+   "id": "s6_egg_out7",
+   "kind": "egg_out",
+   "i": 7
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 377.062,
+   "id": "s6_dark",
+   "kind": "eggs_dark"
+  },
+  {
+   "scene": "s6_yibin",
+   "t": 378.262,
+   "id": "s6_out",
+   "kind": "fade_out"
+  },
+  {
+   "scene": "s7_end",
+   "t": 381.662,
+   "id": "s7_in",
+   "kind": "fade_in",
+   "note": "黎明"
+  },
+  {
+   "scene": "s7_end",
+   "t": 381.848,
+   "id": "s7_beat0",
+   "kind": "heartbeat",
+   "i": 0,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 383.049,
+   "id": "s7_beat1",
+   "kind": "heartbeat",
+   "i": 1,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 384.25,
+   "id": "s7_beat2",
+   "kind": "heartbeat",
+   "i": 2,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 385.451,
+   "id": "s7_beat3",
+   "kind": "heartbeat",
+   "i": 3,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 386.162,
+   "id": "s7_eye",
+   "kind": "cut"
+  },
+  {
+   "scene": "s7_end",
+   "t": 386.653,
+   "id": "s7_beat4",
+   "kind": "heartbeat",
+   "i": 4,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 386.862,
+   "id": "s7_touch",
+   "kind": "settle",
+   "note": "腹部碰到卵石"
+  },
+  {
+   "scene": "s7_end",
+   "t": 387.856,
+   "id": "s7_beat5",
+   "kind": "heartbeat",
+   "i": 5,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 389.061,
+   "id": "s7_beat6",
+   "kind": "heartbeat",
+   "i": 6,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 390.162,
+   "id": "s7_settle",
+   "kind": "settle",
+   "note": "吻搭到石头上"
+  },
+  {
+   "scene": "s7_end",
+   "t": 390.268,
+   "id": "s7_beat7",
+   "kind": "heartbeat",
+   "i": 7,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 390.862,
+   "id": "s7_rostrum",
+   "kind": "cut"
+  },
+  {
+   "scene": "s7_end",
+   "t": 391.478,
+   "id": "s7_beat8",
+   "kind": "heartbeat",
+   "i": 8,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 392.694,
+   "id": "s7_beat9",
+   "kind": "heartbeat",
+   "i": 9,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 393.917,
+   "id": "s7_beat10",
+   "kind": "heartbeat",
+   "i": 10,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 395.082,
+   "id": "s7_body",
+   "kind": "cut"
+  },
+  {
+   "scene": "s7_end",
+   "t": 395.152,
+   "id": "s7_beat11",
+   "kind": "heartbeat",
+   "i": 11,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 396.406,
+   "id": "s7_beat12",
+   "kind": "heartbeat",
+   "i": 12,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 397.688,
+   "id": "s7_beat13",
+   "kind": "heartbeat",
+   "i": 13,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 399.016,
+   "id": "s7_beat14",
+   "kind": "heartbeat",
+   "i": 14,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 399.592,
+   "id": "s7_electro",
+   "kind": "electro_on"
+  },
+  {
+   "scene": "s7_end",
+   "t": 399.892,
+   "id": "s7_world_fade",
+   "kind": "world_fade",
+   "dur": 6.300000000000011,
+   "note": "四周的河床从外往里暗下去"
+  },
+  {
+   "scene": "s7_end",
+   "t": 400.421,
+   "id": "s7_beat15",
+   "kind": "heartbeat",
+   "i": 15,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 400.492,
+   "id": "s7_lights_out",
+   "kind": "lights_out",
+   "dur": 2.900000000000034
+  },
+  {
+   "scene": "s7_end",
+   "t": 400.742,
+   "id": "s7_light_out0",
+   "kind": "light_out",
+   "i": 0
+  },
+  {
+   "scene": "s7_end",
+   "t": 401.292,
+   "id": "s7_light_out1",
+   "kind": "light_out",
+   "i": 1
+  },
+  {
+   "scene": "s7_end",
+   "t": 401.742,
+   "id": "s7_light_out2",
+   "kind": "light_out",
+   "i": 2
+  },
+  {
+   "scene": "s7_end",
+   "t": 401.963,
+   "id": "s7_beat16",
+   "kind": "heartbeat",
+   "i": 16,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 402.092,
+   "id": "s7_light_out3",
+   "kind": "light_out",
+   "i": 3
+  },
+  {
+   "scene": "s7_end",
+   "t": 403.792,
+   "id": "s7_beat17",
+   "kind": "heartbeat",
+   "i": 17,
+   "last": false
+  },
+  {
+   "scene": "s7_end",
+   "t": 406.592,
+   "id": "s7_beat18",
+   "kind": "heartbeat",
+   "i": 18,
+   "last": true
+  },
+  {
+   "scene": "s7_end",
+   "t": 406.592,
+   "id": "s7_last",
+   "kind": "last_pulse"
+  },
+  {
+   "scene": "s7_end",
+   "t": 408.192,
+   "id": "s7_black",
+   "kind": "black"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 411.192,
+   "id": "paper_in",
+   "kind": "paper"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 412.692,
+   "end": 412.8257883938887,
+   "id": "verse_1_1",
+   "kind": "brush",
+   "char": "有",
+   "ci": 0,
+   "i": 0,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 412.864,
+   "end": 412.98392772736855,
+   "id": "verse_1_2",
+   "kind": "brush",
+   "char": "有",
+   "ci": 0,
+   "i": 1,
+   "type": "pie"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.022,
+   "end": 413.1238614005549,
+   "id": "verse_1_3",
+   "kind": "brush",
+   "char": "有",
+   "ci": 0,
+   "i": 2,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.163,
+   "end": 413.34547849013916,
+   "id": "verse_1_4",
+   "kind": "brush",
+   "char": "有",
+   "ci": 0,
+   "i": 3,
+   "type": "gou"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.377,
+   "end": 413.41021174856513,
+   "id": "verse_1_5",
+   "kind": "brush",
+   "char": "有",
+   "ci": 0,
+   "i": 4,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.438,
+   "end": 413.4732711666819,
+   "id": "verse_1_6",
+   "kind": "brush",
+   "char": "有",
+   "ci": 0,
+   "i": 5,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.579,
+   "end": 413.6532489138887,
+   "id": "verse_2_1",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 0,
+   "type": "pie"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.68,
+   "end": 413.75824905701126,
+   "id": "verse_2_2",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 1,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.784,
+   "end": 413.84363504230237,
+   "id": "verse_2_3",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 2,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 413.873,
+   "end": 413.98717620792524,
+   "id": "verse_2_4",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 3,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.014,
+   "end": 414.04087490156724,
+   "id": "verse_2_5",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 4,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.064,
+   "end": 414.10714436812594,
+   "id": "verse_2_6",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 5,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.129,
+   "end": 414.15758195506146,
+   "id": "verse_2_7",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 6,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.189,
+   "end": 414.25778657444846,
+   "id": "verse_2_8",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 7,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.304,
+   "end": 414.3567895770678,
+   "id": "verse_2_9",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 8,
+   "type": "dian"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.385,
+   "end": 414.46182416633445,
+   "id": "verse_2_10",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 9,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.498,
+   "end": 414.5600514392673,
+   "id": "verse_2_11",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 10,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.589,
+   "end": 414.72006372750747,
+   "id": "verse_2_12",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 11,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.751,
+   "end": 414.8026855608255,
+   "id": "verse_2_13",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 12,
+   "type": "dian"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.826,
+   "end": 414.8816604557797,
+   "id": "verse_2_14",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 13,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.904,
+   "end": 414.92877293152526,
+   "id": "verse_2_15",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 14,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 414.955,
+   "end": 414.991814449792,
+   "id": "verse_2_16",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 15,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.021,
+   "end": 415.07459077997476,
+   "id": "verse_2_17",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 16,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.101,
+   "end": 415.21383497044695,
+   "id": "verse_2_18",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 17,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.241,
+   "end": 415.2699642039053,
+   "id": "verse_2_19",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 18,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.295,
+   "end": 415.32585205730004,
+   "id": "verse_2_20",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 19,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.36,
+   "end": 415.46165315180815,
+   "id": "verse_2_21",
+   "kind": "brush",
+   "char": "鳣",
+   "ci": 1,
+   "i": 20,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.567,
+   "end": 415.7010751923546,
+   "id": "verse_3_1",
+   "kind": "brush",
+   "char": "有",
+   "ci": 2,
+   "i": 0,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.739,
+   "end": 415.8592145258345,
+   "id": "verse_3_2",
+   "kind": "brush",
+   "char": "有",
+   "ci": 2,
+   "i": 1,
+   "type": "pie"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 415.897,
+   "end": 415.99914819902085,
+   "id": "verse_3_3",
+   "kind": "brush",
+   "char": "有",
+   "ci": 2,
+   "i": 2,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.038,
+   "end": 416.2207652886051,
+   "id": "verse_3_4",
+   "kind": "brush",
+   "char": "有",
+   "ci": 2,
+   "i": 3,
+   "type": "gou"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.252,
+   "end": 416.28549854703107,
+   "id": "verse_3_5",
+   "kind": "brush",
+   "char": "有",
+   "ci": 2,
+   "i": 4,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.314,
+   "end": 416.34855796514785,
+   "id": "verse_3_6",
+   "kind": "brush",
+   "char": "有",
+   "ci": 2,
+   "i": 5,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.454,
+   "end": 416.52811857027996,
+   "id": "verse_4_1",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 0,
+   "type": "pie"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.555,
+   "end": 416.63650483080266,
+   "id": "verse_4_2",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 1,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.663,
+   "end": 416.7225117380734,
+   "id": "verse_4_3",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 2,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.752,
+   "end": 416.8748599898524,
+   "id": "verse_4_4",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 3,
+   "type": "zhe"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.903,
+   "end": 416.9326797526361,
+   "id": "verse_4_5",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 4,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 416.956,
+   "end": 417.0001490960997,
+   "id": "verse_4_6",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 5,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.022,
+   "end": 417.0561467642631,
+   "id": "verse_4_7",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 6,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.089,
+   "end": 417.1573865350278,
+   "id": "verse_4_8",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 7,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.194,
+   "end": 417.27760864085803,
+   "id": "verse_4_9",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 8,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.311,
+   "end": 417.4174632078806,
+   "id": "verse_4_10",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 9,
+   "type": "pie"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.444,
+   "end": 417.5360008358752,
+   "id": "verse_4_11",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 10,
+   "type": "shu"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.573,
+   "end": 417.73712455722506,
+   "id": "verse_4_12",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 11,
+   "type": "gou"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.768,
+   "end": 417.79117366428244,
+   "id": "verse_4_13",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 12,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 417.817,
+   "end": 417.842,
+   "id": "verse_4_14",
+   "kind": "brush",
+   "char": "鲔",
+   "ci": 3,
+   "i": 13,
+   "type": "heng"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 418.192,
+   "id": "verse_src",
+   "kind": "card",
+   "text": "《诗经·周颂·潜》"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 420.692,
+   "id": "E1",
+   "kind": "card",
+   "text": "1981 年 1 月，葛洲坝截流。白鲟洄游的路被切断。",
+   "end": 425.692
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 425.692,
+   "id": "E2",
+   "kind": "card",
+   "text": "2003 年 1 月 24 日，一尾长 3.52 米、腹中怀卵的雌性白鲟在宜宾被误捕。|救护人员为她缝合伤口，装上超声波信标，放归长江。",
+   "end": 432.192
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 432.192,
+   "id": "E3",
+   "kind": "card",
+   "text": "1 月 30 日凌晨，跟踪船触礁，信号消失。|此后八年，科研人员一直在找她。",
+   "end": 438.192
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 438.192,
+   "id": "E4",
+   "kind": "card",
+   "text": "那是人类最后一次见到白鲟。",
+   "end": 442.692
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 442.692,
+   "id": "E5",
+   "kind": "card",
+   "text": "研究推断，白鲟在 2005 年至 2010 年间灭绝。",
+   "end": 447.192
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 447.192,
+   "id": "E6",
+   "kind": "card",
+   "text": "没有人知道，最后一尾死在哪一天。",
+   "end": 453.192
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 453.192,
+   "id": "E7",
+   "kind": "card",
+   "text": "2020 年 1 月 1 日，长江开始十年禁渔。",
+   "end": 456.692
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 456.692,
+   "id": "E8",
+   "kind": "card",
+   "text": "她没有等到。",
+   "end": 461.492
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 461.442,
+   "id": "E9",
+   "kind": "card",
+   "text": "2022 年 7 月 21 日，世界自然保护联盟宣布：白鲟灭绝。",
+   "end": 466.142
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 467.012,
+   "id": "drop",
+   "kind": "drop",
+   "char": "鲔"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 467.012,
+   "id": "wash",
+   "kind": "wash",
+   "end": 472.192,
+   "char": "鲔"
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 475.192,
+   "id": "fade_black",
+   "kind": "fade",
+   "end": 476.992
+  },
+  {
+   "scene": "s8_epilogue",
+   "t": 477.192,
+   "id": "credits",
+   "kind": "card",
+   "text": "鲔 / 画面、声音、音乐全部由代码生成（p5.js · three.js） / 史实来源：新华社、澎湃新闻；Zhang et al., Science of the Total Environment, 2020"
+  }
+ ]
+}

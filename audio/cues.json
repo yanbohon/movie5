@@ -1,0 +1,5140 @@
+{
+ "version": 1,
+ "sr": 48000,
+ "duration": 485.192,
+ "note": "t=同步点（秒，全片绝对时间）；gain_db 相对音效库电平（单次峰值 -3 dBFS / 长纹理 -23 LUFS，环境床 full ≈ -23 LUFS）；p 中 *_at 为绝对时间，*_env 为 [(绝对时间, dB)]。每次 build_mix 自动重写本文件。",
+ "timing": {
+  "visual_events": {
+   "path": "audio/visual_events.json",
+   "exists": true,
+   "n": 401,
+   "mtime": 1790442445.3038037
+  },
+  "categories": 82,
+  "from_visual_events": 81,
+  "from_marks": 1,
+  "table": [
+   {
+    "key": "s0 片名笔画",
+    "source": "visual_events",
+    "n": 14,
+    "first": 22.0,
+    "last": 25.931
+   },
+   {
+    "key": "s0 片名散开",
+    "source": "visual_events",
+    "n": 1,
+    "first": 28.2,
+    "last": 28.2
+   },
+   {
+    "key": "s1 画面淡出",
+    "source": "visual_events",
+    "n": 1,
+    "first": 91.265,
+    "last": 91.265
+   },
+   {
+    "key": "s1 吻部擦过镜头",
+    "source": "visual_events",
+    "n": 1,
+    "first": 37.6,
+    "last": 37.6
+   },
+   {
+    "key": "s1 身体滑过",
+    "source": "visual_events",
+    "n": 1,
+    "first": 47.995,
+    "last": 47.995
+   },
+   {
+    "key": "s1 左右扫吻",
+    "source": "visual_events",
+    "n": 3,
+    "first": 68.305,
+    "last": 73.305
+   },
+   {
+    "key": "s1 电感视觉荡开",
+    "source": "visual_events",
+    "n": 1,
+    "first": 49.795,
+    "last": 49.795
+   },
+   {
+    "key": "s1 远处船声起",
+    "source": "visual_events",
+    "n": 1,
+    "first": 75.415,
+    "last": 75.415
+   },
+   {
+    "key": "s1 电感被白噪声冲垮",
+    "source": "visual_events",
+    "n": 1,
+    "first": 79.325,
+    "last": 79.325
+   },
+   {
+    "key": "s1 船头压过",
+    "source": "visual_events",
+    "n": 1,
+    "first": 79.025,
+    "last": 79.025
+   },
+   {
+    "key": "s1 船最响",
+    "source": "visual_events",
+    "n": 1,
+    "first": 82.525,
+    "last": 82.525
+   },
+   {
+    "key": "s1 螺旋桨过头顶",
+    "source": "visual_events",
+    "n": 1,
+    "first": 86.025,
+    "last": 86.025
+   },
+   {
+    "key": "s1 船走远",
+    "source": "visual_events",
+    "n": 1,
+    "first": 87.325,
+    "last": 87.325
+   },
+   {
+    "key": "s1 她贴着河床下潜",
+    "source": "visual_events",
+    "n": 1,
+    "first": 79.725,
+    "last": 79.725
+   },
+   {
+    "key": "s1 贴到河床",
+    "source": "visual_events",
+    "n": 1,
+    "first": 83.625,
+    "last": 83.625
+   },
+   {
+    "key": "s2 尺子画线（咚 + 刮擦）",
+    "source": "visual_events",
+    "n": 2,
+    "first": 153.048,
+    "last": 153.598
+   },
+   {
+    "key": "s2 坝后鱼一条条淡掉",
+    "source": "visual_events",
+    "n": 5,
+    "first": 175.138,
+    "last": 176.888
+   },
+   {
+    "key": "s2 宣纸淡入",
+    "source": "visual_events",
+    "n": 1,
+    "first": 92.865,
+    "last": 92.865
+   },
+   {
+    "key": "s2 书法「白鲟」「象鱼」",
+    "source": "visual_events",
+    "n": 38,
+    "first": 94.515,
+    "last": 99.814
+   },
+   {
+    "key": "s2 长卷飞速掠过",
+    "source": "visual_events",
+    "n": 1,
+    "first": 102.485,
+    "last": 102.485
+   },
+   {
+    "key": "s2 陨石划过",
+    "source": "visual_events",
+    "n": 1,
+    "first": 112.925,
+    "last": 112.925
+   },
+   {
+    "key": "s2 陨石落地",
+    "source": "visual_events",
+    "n": 1,
+    "first": 113.425,
+    "last": 113.425
+   },
+   {
+    "key": "s2 长卷大字「鲔」",
+    "source": "visual_events",
+    "n": 14,
+    "first": 130.295,
+    "last": 133.241
+   },
+   {
+    "key": "s2 小楷（季春之月…）",
+    "source": "visual_events",
+    "n": 14,
+    "first": 133.395,
+    "last": 135.955
+   },
+   {
+    "key": "s3 日期小楷淡墨渗出",
+    "source": "visual_events",
+    "n": 1,
+    "first": 181.648,
+    "last": 181.648
+   },
+   {
+    "key": "s3 出水（看见天）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 187.828,
+    "last": 187.828
+   },
+   {
+    "key": "s3 撞进网",
+    "source": "visual_events",
+    "n": 1,
+    "first": 186.228,
+    "last": 186.228
+   },
+   {
+    "key": "s3 网收拢",
+    "source": "visual_events",
+    "n": 1,
+    "first": 187.148,
+    "last": 187.148
+   },
+   {
+    "key": "s3 网里甩尾",
+    "source": "visual_events",
+    "n": 3,
+    "first": 186.528,
+    "last": 187.308
+   },
+   {
+    "key": "s3 八个人使劲（没抬动）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 197.258,
+    "last": 197.258
+   },
+   {
+    "key": "s3 棉被甩上来",
+    "source": "visual_events",
+    "n": 1,
+    "first": 199.158,
+    "last": 199.158
+   },
+   {
+    "key": "s3 抬起来了",
+    "source": "visual_events",
+    "n": 1,
+    "first": 200.158,
+    "last": 200.158
+   },
+   {
+    "key": "s3 棉被特写（很暖）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 203.988,
+    "last": 203.988
+   },
+   {
+    "key": "s3 量尺",
+    "source": "visual_events",
+    "n": 1,
+    "first": 206.978,
+    "last": 206.978
+   },
+   {
+    "key": "s3 二十四针",
+    "source": "visual_events",
+    "n": 24,
+    "first": 210.49,
+    "last": 216.01
+   },
+   {
+    "key": "s3 打结剪线",
+    "source": "visual_events",
+    "n": 1,
+    "first": 216.36,
+    "last": 216.36
+   },
+   {
+    "key": "s3 触礁",
+    "source": "visual_events",
+    "n": 1,
+    "first": 237.6,
+    "last": 237.6
+   },
+   {
+    "key": "s3 信标扣上背",
+    "source": "visual_events",
+    "n": 1,
+    "first": 218.76,
+    "last": 218.76
+   },
+   {
+    "key": "s3 信标嘀（每 2 s）",
+    "source": "visual_events",
+    "n": 10,
+    "first": 219.37,
+    "last": 237.37
+   },
+   {
+    "key": "s3 放流入水",
+    "source": "visual_events",
+    "n": 1,
+    "first": 223.64,
+    "last": 223.64
+   },
+   {
+    "key": "s3 在下游折返",
+    "source": "visual_events",
+    "n": 1,
+    "first": 226.79,
+    "last": 226.79
+   },
+   {
+    "key": "s3 跟踪船引擎",
+    "source": "visual_events",
+    "n": 1,
+    "first": 229.62,
+    "last": 229.62
+   },
+   {
+    "key": "s3 墨洇开接 S4",
+    "source": "visual_events",
+    "n": 1,
+    "first": 250.58,
+    "last": 250.58
+   },
+   {
+    "key": "s4 旧信标的叫声（一声比一声弱）",
+    "source": "visual_events",
+    "n": 4,
+    "first": 253.93,
+    "last": 259.5
+   },
+   {
+    "key": "s4 电感视觉（头顶的船）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 268.041,
+    "last": 268.041
+   },
+   {
+    "key": "s4 船一次次从头顶开过（延时）",
+    "source": "visual_events",
+    "n": 2,
+    "first": 269.541,
+    "last": 272.541
+   },
+   {
+    "key": "s4 第三次：减速停在她头顶",
+    "source": "visual_events",
+    "n": 1,
+    "first": 272.331,
+    "last": 272.331
+   },
+   {
+    "key": "s4 船开走",
+    "source": "visual_events",
+    "n": 1,
+    "first": 280.321,
+    "last": 280.321
+   },
+   {
+    "key": "s4 水听器放下来",
+    "source": "visual_events",
+    "n": 1,
+    "first": 274.831,
+    "last": 274.831
+   },
+   {
+    "key": "s4 水听器拉上去",
+    "source": "visual_events",
+    "n": 1,
+    "first": 279.421,
+    "last": 279.421
+   },
+   {
+    "key": "s5 光团切回真实视角",
+    "source": "visual_events",
+    "n": 1,
+    "first": 291.311,
+    "last": 291.311
+   },
+   {
+    "key": "s5 电感：远处一团光",
+    "source": "visual_events",
+    "n": 1,
+    "first": 282.821,
+    "last": 282.821
+   },
+   {
+    "key": "s5 心跳（far_glow 起、慢慢加快）",
+    "source": "visual_events",
+    "n": 11,
+    "first": 283.793,
+    "last": 291.061
+   },
+   {
+    "key": "s5 她冲过去",
+    "source": "visual_events",
+    "n": 1,
+    "first": 287.311,
+    "last": 287.311
+   },
+   {
+    "key": "s5 老鲟游近",
+    "source": "visual_events",
+    "n": 1,
+    "first": 291.511,
+    "last": 291.511
+   },
+   {
+    "key": "s5 回忆的波（电感）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 304.313,
+    "last": 304.313
+   },
+   {
+    "key": "s5 透过身体看见卵（电感）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 317.737,
+    "last": 317.737
+   },
+   {
+    "key": "s5 老鲟转身",
+    "source": "marks",
+    "n": 1,
+    "first": 325.942,
+    "last": 325.942
+   },
+   {
+    "key": "s5 老鲟从身边游走",
+    "source": "visual_events",
+    "n": 1,
+    "first": 328.142,
+    "last": 328.142
+   },
+   {
+    "key": "s6 延时开始（城里的灯一盏盏熄）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 353.552,
+    "last": 353.552
+   },
+   {
+    "key": "s6 桥上的灯带熄灭",
+    "source": "visual_events",
+    "n": 1,
+    "first": 357.492,
+    "last": 357.492
+   },
+   {
+    "key": "s6 延时结束",
+    "source": "visual_events",
+    "n": 1,
+    "first": 357.842,
+    "last": 357.842
+   },
+   {
+    "key": "s6 穿过两江分界",
+    "source": "visual_events",
+    "n": 1,
+    "first": 340.512,
+    "last": 340.512
+   },
+   {
+    "key": "s6 回忆：一代代白鲟的光影（电感）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 345.172,
+    "last": 345.172
+   },
+   {
+    "key": "s6 回忆散去",
+    "source": "visual_events",
+    "n": 1,
+    "first": 353.202,
+    "last": 353.202
+   },
+   {
+    "key": "s6 一代代白鲟的影子游过",
+    "source": "visual_events",
+    "n": 3,
+    "first": 345.922,
+    "last": 350.022
+   },
+   {
+    "key": "s6 电感：四周是空的",
+    "source": "visual_events",
+    "n": 1,
+    "first": 358.242,
+    "last": 358.242
+   },
+   {
+    "key": "s6 产卵（一股一股）",
+    "source": "visual_events",
+    "n": 7,
+    "first": 362.842,
+    "last": 366.562
+   },
+   {
+    "key": "s6 卵亮起",
+    "source": "visual_events",
+    "n": 2,
+    "first": 365.482,
+    "last": 365.482
+   },
+   {
+    "key": "s6 卵一颗颗熄灭（宁可少）",
+    "source": "visual_events",
+    "n": 5,
+    "first": 372.282,
+    "last": 374.742
+   },
+   {
+    "key": "s7 她的光熄灭",
+    "source": "visual_events",
+    "n": 1,
+    "first": 400.492,
+    "last": 400.492
+   },
+   {
+    "key": "s7 最后一下（last_pulse）",
+    "source": "visual_events",
+    "n": 1,
+    "first": 406.592,
+    "last": 406.592
+   },
+   {
+    "key": "s7 全黑",
+    "source": "visual_events",
+    "n": 1,
+    "first": 408.192,
+    "last": 408.192
+   },
+   {
+    "key": "s7 腹部碰到卵石",
+    "source": "visual_events",
+    "n": 2,
+    "first": 386.862,
+    "last": 390.162
+   },
+   {
+    "key": "s7 吻搭到石头上",
+    "source": "visual_events",
+    "n": 1,
+    "first": 390.162,
+    "last": 390.162
+   },
+   {
+    "key": "s7 心跳（越来越慢，最后一下 = last_pulse）",
+    "source": "visual_events",
+    "n": 19,
+    "first": 381.848,
+    "last": 406.592
+   },
+   {
+    "key": "s7 最后一次电感视觉",
+    "source": "visual_events",
+    "n": 1,
+    "first": 399.592,
+    "last": 399.592
+   },
+   {
+    "key": "s8 淡黑",
+    "source": "visual_events",
+    "n": 1,
+    "first": 475.192,
+    "last": 475.192
+   },
+   {
+    "key": "s8 宣纸淡入",
+    "source": "visual_events",
+    "n": 1,
+    "first": 411.192,
+    "last": 411.192
+   },
+   {
+    "key": "s8 「有鳣有鲔」每一笔",
+    "source": "visual_events",
+    "n": 47,
+    "first": 412.692,
+    "last": 417.817
+   },
+   {
+    "key": "s8 水滴落在「鲔」上",
+    "source": "visual_events",
+    "n": 1,
+    "first": 467.012,
+    "last": 467.012
+   },
+   {
+    "key": "s8 墨被水晕开、冲走",
+    "source": "visual_events",
+    "n": 1,
+    "first": 467.012,
+    "last": 467.012
+   }
+  ]
+ },
+ "cues": [
+  {
+   "id": "bed001",
+   "t": 0.0,
+   "end": 33.0,
+   "bed": "uw_river",
+   "gain_db": -11.5,
+   "fade_in": 9.0,
+   "fade_out": 2.5,
+   "p": {
+    "flow": 0.35,
+    "hush": 0.0,
+    "gravel": 0.0
+   },
+   "note": "江底极低的轰鸣从 0 秒慢慢起来（只有轰鸣 + 一点点水流，没有砾石）",
+   "scene": "s0_cold"
+  },
+  {
+   "id": "fx002",
+   "t": 22.0,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": -0.25,
+   "p": {
+    "dur": 0.20251307063243473,
+    "seed": 100
+   },
+   "note": "片名「鲔」第 1 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx003",
+   "t": 22.29,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": -0.125,
+   "p": {
+    "dur": 0.22388287117632544,
+    "seed": 101
+   },
+   "note": "片名「鲔」第 2 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx004",
+   "t": 22.6,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.16375483750671194,
+    "seed": 102
+   },
+   "note": "片名「鲔」第 3 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx005",
+   "t": 22.859,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.125,
+   "p": {
+    "dur": 0.3374437949897313,
+    "seed": 103
+   },
+   "note": "片名「鲔」第 4 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx006",
+   "t": 23.287,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.25,
+   "p": {
+    "dur": 0.08262608314385389,
+    "seed": 104
+   },
+   "note": "片名「鲔」第 5 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx007",
+   "t": 23.448,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": -0.25,
+   "p": {
+    "dur": 0.11982263201699084,
+    "seed": 105
+   },
+   "note": "片名「鲔」第 6 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx008",
+   "t": 23.64,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": -0.125,
+   "p": {
+    "dur": 0.093966097768309,
+    "seed": 106
+   },
+   "note": "片名「鲔」第 7 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx009",
+   "t": 23.841,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.18686839421860313,
+    "seed": 107
+   },
+   "note": "片名「鲔」第 8 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx010",
+   "t": 24.146,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.125,
+   "p": {
+    "dur": 0.2290294171668208,
+    "seed": 108
+   },
+   "note": "片名「鲔」第 9 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx011",
+   "t": 24.482,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.25,
+   "p": {
+    "dur": 0.2927813412921694,
+    "seed": 109
+   },
+   "note": "片名「鲔」第 10 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx012",
+   "t": 24.862,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": -0.25,
+   "p": {
+    "dur": 0.25194367466314205,
+    "seed": 110
+   },
+   "note": "片名「鲔」第 11 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx013",
+   "t": 25.233,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": -0.125,
+   "p": {
+    "dur": 0.4497924035154206,
+    "seed": 111
+   },
+   "note": "片名「鲔」第 12 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx014",
+   "t": 25.783,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.08,
+    "seed": 112
+   },
+   "note": "片名「鲔」第 13 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx015",
+   "t": 25.931,
+   "sfx": "light_stroke",
+   "gain_db": -17.0,
+   "pan": 0.125,
+   "p": {
+    "dur": 0.08,
+    "seed": 113
+   },
+   "note": "片名「鲔」第 14 笔（笔毛擦过 + 极低的光感 swell）",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx016",
+   "t": 28.2,
+   "sfx": "grain_dissolve",
+   "gain_db": -9.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.7360000000000007,
+    "drift": -0.4
+   },
+   "note": "片名的光散成颗粒、被水流带走（细碎沙沙），31.0 硬接 S1",
+   "scene": "s0_cold",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "cut_at": 31.0,
+   "check": "onset"
+  },
+  {
+   "id": "bed017",
+   "t": 30.8,
+   "end": 92.765,
+   "bed": "uw_river",
+   "gain_db": -12.0,
+   "fade_in": 2.2,
+   "fade_out": 1.6,
+   "p": {},
+   "note": "水下江底床（轰鸣 + 缓慢起伏的水流 + 偶尔远处砾石），跟画面淡出",
+   "scene": "s1_river"
+  },
+  {
+   "id": "fx018",
+   "t": 37.6,
+   "sfx": "uw_whoosh",
+   "gain_db": -15.034215715337913,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.0,
+    "tpk": 0.5,
+    "size": 0.6,
+    "bright": 1.106,
+    "pan_from": 0.5,
+    "pan_to": -0.35
+   },
+   "note": "吻部擦过镜头：水流 whoosh（同步点 = 最近点，距离 1.2 m）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "peak"
+  },
+  {
+   "id": "fx019",
+   "t": 47.995,
+   "sfx": "uw_whoosh",
+   "gain_db": -10.210896782498619,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.4,
+    "tpk": 0.5,
+    "size": 1.25,
+    "bright": 0.95,
+    "pan_from": -0.6,
+    "pan_to": 0.6
+   },
+   "note": "身体滑过：水流 whoosh（同步点 = 最近点，距离 2.5 m）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "peak"
+  },
+  {
+   "id": "fx023",
+   "t": 49.795,
+   "sfx": "electro_sparkle",
+   "gain_db": -12.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 25.620000000000005,
+    "fade_out": 0.9
+   },
+   "note": "电感视觉：荡开的一圈波 + 晶莹细碎的高频闪烁（随机颗粒、无固定音高），到 rumble_start 前收",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx020",
+   "t": 68.305,
+   "sfx": "uw_whoosh",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.3,
+    "tpk": 0.5,
+    "size": 0.35,
+    "bright": 1.1,
+    "pan_from": -0.5,
+    "pan_to": 0.5,
+    "seed": 120
+   },
+   "note": "她左右摆动长吻（第 1 次，很轻）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx021",
+   "t": 70.805,
+   "sfx": "uw_whoosh",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.3,
+    "tpk": 0.5,
+    "size": 0.35,
+    "bright": 1.1,
+    "pan_from": 0.5,
+    "pan_to": -0.5,
+    "seed": 121
+   },
+   "note": "她左右摆动长吻（第 2 次，很轻）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx022",
+   "t": 73.305,
+   "sfx": "uw_whoosh",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.3,
+    "tpk": 0.5,
+    "size": 0.35,
+    "bright": 1.1,
+    "pan_from": -0.5,
+    "pan_to": 0.5,
+    "seed": 122
+   },
+   "note": "她左右摆动长吻（第 3 次，很轻）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx024",
+   "t": 75.415,
+   "sfx": "ship_pass",
+   "gain_db": -4.0,
+   "pan": 0.0,
+   "p": {
+    "t_pass": 3.9099999999999966,
+    "t_peak": 7.109999999999999,
+    "t_gone": 11.909999999999997,
+    "t_prop": 10.61,
+    "t_bow": 3.6099999999999994,
+    "tail": 5.140000000000001
+   },
+   "note": "远处船声渐近 → 船头推水 → 白噪声冲垮电感 → ship_peak 最响 → 螺旋桨过头顶 → 远去",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "sub": [
+    {
+     "label": "ship_pass(白噪声)",
+     "t": 79.325,
+     "kind": "slope"
+    },
+    {
+     "label": "ship_peak(重拍)",
+     "t": 82.525,
+     "kind": "slope"
+    }
+   ]
+  },
+  {
+   "id": "fx025",
+   "t": 75.415,
+   "sfx": "field_crackle",
+   "gain_db": -8.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.9099999999999966
+   },
+   "note": "电场开始闪烁、出现噪点（越来越密，接 ship_pass 的白噪声）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "cut_at": 79.365
+  },
+  {
+   "id": "fx028",
+   "t": 79.325,
+   "sfx": "sediment",
+   "gain_db": -6.0,
+   "pan": 0.0,
+   "p": {
+    "t_peak": 7.0,
+    "t_gone": 8.0,
+    "settle": 4.5
+   },
+   "note": "泥沙风暴打在身上的沙沙声（螺旋桨过去时最密），ship_gone 后慢慢落定",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx026",
+   "t": 80.175,
+   "sfx": "uw_whoosh",
+   "gain_db": -13.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.4,
+    "tpk": 0.32,
+    "size": 1.0,
+    "pan_from": 0.2,
+    "pan_to": -0.2,
+    "seed": 131
+   },
+   "note": "她猛地下潜（身体推水）",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx027",
+   "t": 83.625,
+   "sfx": "bottom_touch",
+   "gain_db": -9.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "贴到河床，泥沙扬起",
+   "scene": "s1_river",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "bed029",
+   "t": 92.365,
+   "end": 181.998,
+   "bed": "scroll_air",
+   "gain_db": -21.0,
+   "fade_in": 1.6,
+   "fade_out": 1.3,
+   "p": {
+    "gaps_at": [
+     175.138,
+     175.438,
+     175.588,
+     176.138,
+     176.888
+    ],
+    "cut_at": [
+     153.048
+    ]
+   },
+   "note": "极淡的远处江风（让位给笔墨与音乐）；鱼淡掉处水声挖缺口；dam_line 硬切后慢慢回来",
+   "scene": "s2_scroll"
+  },
+  {
+   "id": "fx030",
+   "t": 92.865,
+   "sfx": "paper_breath",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.6
+   },
+   "note": "宣纸淡入",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx031",
+   "t": 94.515,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.08023216868166116,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 300
+   },
+   "note": "毛笔竖写白（第 1 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx032",
+   "t": 94.621,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.11254124186177705,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 301
+   },
+   "note": "毛笔竖写白（第 2 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx033",
+   "t": 94.775,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.25111653259209277,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 302
+   },
+   "note": "毛笔竖写白（第 3 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx034",
+   "t": 95.07,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.07324633892343968,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 303
+   },
+   "note": "毛笔竖写白（第 4 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx035",
+   "t": 95.181,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.07484360874013873,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 304
+   },
+   "note": "毛笔竖写白（第 5 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx036",
+   "t": 95.348,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.0805089405486541,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 305
+   },
+   "note": "毛笔竖写鲟（第 6 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx037",
+   "t": 95.458,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.08908210208468859,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 306
+   },
+   "note": "毛笔竖写鲟（第 7 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx038",
+   "t": 95.575,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.06661880043009205,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 307
+   },
+   "note": "毛笔竖写鲟（第 8 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx039",
+   "t": 95.673,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.13302966577282405,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 308
+   },
+   "note": "毛笔竖写鲟（第 9 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx040",
+   "t": 95.836,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 309
+   },
+   "note": "毛笔竖写鲟（第 10 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx041",
+   "t": 95.896,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 310
+   },
+   "note": "毛笔竖写鲟（第 11 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx042",
+   "t": 95.968,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 311
+   },
+   "note": "毛笔竖写鲟（第 12 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx043",
+   "t": 96.041,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.07465012394762027,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 312
+   },
+   "note": "毛笔竖写鲟（第 13 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx044",
+   "t": 96.162,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.11581842561210465,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 313
+   },
+   "note": "毛笔竖写鲟（第 14 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx045",
+   "t": 96.309,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 314
+   },
+   "note": "毛笔竖写鲟（第 15 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx046",
+   "t": 96.385,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.05625300255547927,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 315
+   },
+   "note": "毛笔竖写鲟（第 16 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx047",
+   "t": 96.479,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.09155078570995556,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 316
+   },
+   "note": "毛笔竖写鲟（第 17 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx048",
+   "t": 96.602,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.17783882804205575,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 317
+   },
+   "note": "毛笔竖写鲟（第 18 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx049",
+   "t": 96.81,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.05499999999999261,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 318
+   },
+   "note": "毛笔竖写鲟（第 19 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx050",
+   "t": 97.385,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.0652295574096371,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 319
+   },
+   "note": "毛笔竖写象（第 20 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx051",
+   "t": 97.48,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.08679069940599504,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 320
+   },
+   "note": "毛笔竖写象（第 21 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx052",
+   "t": 97.601,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.08490189182418817,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 321
+   },
+   "note": "毛笔竖写象（第 22 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx053",
+   "t": 97.715,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.15680457750866594,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 322
+   },
+   "note": "毛笔竖写象（第 23 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx054",
+   "t": 97.909,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.07625117607207699,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 323
+   },
+   "note": "毛笔竖写象（第 24 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx055",
+   "t": 98.014,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.0773278864828626,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 324
+   },
+   "note": "毛笔竖写象（第 25 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx056",
+   "t": 98.125,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.16841750641719955,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 325
+   },
+   "note": "毛笔竖写象（第 26 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx057",
+   "t": 98.331,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.06175835662776308,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 326
+   },
+   "note": "毛笔竖写象（第 27 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx058",
+   "t": 98.43,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.07638031904897957,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 327
+   },
+   "note": "毛笔竖写象（第 28 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx059",
+   "t": 98.559,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.06522376464926083,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 328
+   },
+   "note": "毛笔竖写象（第 29 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx060",
+   "t": 98.646,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.13132131317772178,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 329
+   },
+   "note": "毛笔竖写象（第 30 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx061",
+   "t": 98.874,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.08895354845446946,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 330
+   },
+   "note": "毛笔竖写鱼（第 31 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx062",
+   "t": 98.995,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.1155242321434855,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 331
+   },
+   "note": "毛笔竖写鱼（第 32 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx063",
+   "t": 99.145,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.08876753992161923,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 332
+   },
+   "note": "毛笔竖写鱼（第 33 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx064",
+   "t": 99.271,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.19305116621174534,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 333
+   },
+   "note": "毛笔竖写鱼（第 34 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx065",
+   "t": 99.502,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.053683789509250346,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 334
+   },
+   "note": "毛笔竖写鱼（第 35 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx066",
+   "t": 99.586,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 0.08730408056354122,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 335
+   },
+   "note": "毛笔竖写鱼（第 36 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx067",
+   "t": 99.7,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 0.0641546091795675,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 336
+   },
+   "note": "毛笔竖写鱼（第 37 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx068",
+   "t": 99.814,
+   "sfx": "brush_stroke",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.17100000000000648,
+    "pressure": 0.75,
+    "dry": 0.25,
+    "size": 1.0,
+    "seed": 337
+   },
+   "note": "毛笔竖写鱼（第 38 笔）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx069",
+   "t": 102.485,
+   "sfx": "scroll_rush",
+   "gain_db": -11.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.7000000000000028
+   },
+   "note": "镜头飞速向右掠过长卷（风声/纸声），停在最右端",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx070",
+   "t": 112.925,
+   "sfx": "asteroid_flight",
+   "gain_db": -20.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.5
+   },
+   "note": "朱砂陨石划过天空（带火焰气流）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx071",
+   "t": 113.425,
+   "sfx": "asteroid_impact",
+   "gain_db": -9.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "落地：沉重但克制的低频冲击 + 远处回响（全卷唯一的红晕开）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx072",
+   "t": 117.355,
+   "sfx": "paper_breath",
+   "gain_db": -25.0,
+   "pan": -0.3,
+   "p": {
+    "dur": 0.9,
+    "body": 0.5,
+    "seed": 330
+   },
+   "note": "长卷缓缓移动：纸的轻翻动（台词间隙）",
+   "scene": "s2_scroll",
+   "src": "marks",
+   "duck_db": -3.0,
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx073",
+   "t": 125.345,
+   "sfx": "paper_breath",
+   "gain_db": -26.0,
+   "pan": 0.3,
+   "p": {
+    "dur": 0.9,
+    "body": 0.5,
+    "seed": 331
+   },
+   "note": "长卷缓缓移动：纸的轻翻动（台词间隙）",
+   "scene": "s2_scroll",
+   "src": "marks",
+   "duck_db": -3.0,
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx075",
+   "t": 130.295,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.15980655349085282,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 400
+   },
+   "note": "长卷大字「鲔」第 1 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx076",
+   "t": 130.513,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.17610314971702223,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 401
+   },
+   "note": "长卷大字「鲔」第 2 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx077",
+   "t": 130.746,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.1290227074939594,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 402
+   },
+   "note": "长卷大字「鲔」第 3 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx078",
+   "t": 130.938,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.2663511358453263,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 403
+   },
+   "note": "长卷大字「鲔」第 4 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx079",
+   "t": 131.264,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.06533905912544924,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 404
+   },
+   "note": "长卷大字「鲔」第 5 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx080",
+   "t": 131.38,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.09518630440265952,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 405
+   },
+   "note": "长卷大字「鲔」第 6 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx081",
+   "t": 131.522,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.0742354390809794,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 406
+   },
+   "note": "长卷大字「鲔」第 7 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx082",
+   "t": 131.667,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.14808359915687674,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 407
+   },
+   "note": "长卷大字「鲔」第 8 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx083",
+   "t": 131.894,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.18096552562366242,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 408
+   },
+   "note": "长卷大字「鲔」第 9 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx084",
+   "t": 132.147,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.23028658423419301,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 409
+   },
+   "note": "长卷大字「鲔」第 10 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx085",
+   "t": 132.435,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.19852720578472827,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 410
+   },
+   "note": "长卷大字「鲔」第 11 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx086",
+   "t": 132.713,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.35529267426159095,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 411
+   },
+   "note": "长卷大字「鲔」第 12 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx087",
+   "t": 133.135,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.06,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 412
+   },
+   "note": "长卷大字「鲔」第 13 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx088",
+   "t": 133.241,
+   "sfx": "brush_stroke",
+   "gain_db": -19.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.06,
+    "pressure": 0.9,
+    "dry": 0.35,
+    "size": 1.6,
+    "seed": 413
+   },
+   "note": "长卷大字「鲔」第 14 笔",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset",
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx089",
+   "t": 133.395,
+   "sfx": "small_brush",
+   "gain_db": -26.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 2.759999999999991,
+    "rate": 8.0
+   },
+   "note": "小楷「季春之月 天子始乘舟 荐鲔于寝庙」（很轻）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx074",
+   "t": 140.728,
+   "sfx": "paper_breath",
+   "gain_db": -26.0,
+   "pan": -0.3,
+   "p": {
+    "dur": 0.9,
+    "body": 0.5,
+    "seed": 332
+   },
+   "note": "长卷缓缓移动：纸的轻翻动（台词间隙）",
+   "scene": "s2_scroll",
+   "src": "marks",
+   "duck_db": -3.0,
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx090",
+   "t": 151.448,
+   "sfx": "scroll_slide",
+   "gain_db": -17.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.5999999999999943
+   },
+   "note": "近代：镜头越摇越快冲向坝线（纸面掠过的风越来越紧），dam_line 硬切",
+   "scene": "s2_scroll",
+   "src": "marks",
+   "duck_db": -3.0,
+   "cut_at": 153.048
+  },
+  {
+   "id": "fx091",
+   "t": 153.048,
+   "sfx": "ruler_line",
+   "gain_db": -3.0,
+   "pan": 0.0,
+   "p": {
+    "scrape": 0.55
+   },
+   "note": "dam_line：尺子画线 —— 沉重的「咚」+ 硬而干的刮擦（全卷唯一的硬声音；之前的一切连尾巴硬切）",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx092",
+   "t": 175.138,
+   "sfx": "fish_sigh",
+   "gain_db": -30.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "seed": 500
+   },
+   "note": "墙上游的鱼一条条淡掉（第 1 条）：极轻的叹息 + 水声的缺口",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx093",
+   "t": 175.438,
+   "sfx": "fish_sigh",
+   "gain_db": -30.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "seed": 501
+   },
+   "note": "墙上游的鱼一条条淡掉（第 2 条）：极轻的叹息 + 水声的缺口",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx094",
+   "t": 175.588,
+   "sfx": "fish_sigh",
+   "gain_db": -30.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "seed": 502
+   },
+   "note": "墙上游的鱼一条条淡掉（第 3 条）：极轻的叹息 + 水声的缺口",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx095",
+   "t": 176.138,
+   "sfx": "fish_sigh",
+   "gain_db": -30.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "seed": 503
+   },
+   "note": "墙上游的鱼一条条淡掉（第 4 条）：极轻的叹息 + 水声的缺口",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx096",
+   "t": 176.888,
+   "sfx": "fish_sigh",
+   "gain_db": -30.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "seed": 504
+   },
+   "note": "墙上游的鱼一条条淡掉（第 5 条）：极轻的叹息 + 水声的缺口",
+   "scene": "s2_scroll",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx097",
+   "t": 181.648,
+   "sfx": "ink_bleed",
+   "gain_db": -21.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.6,
+    "wash_from": 5.0,
+    "wash_to": 6.0
+   },
+   "note": "纸上小楷日期淡墨渗出（几乎无声的湿）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx098",
+   "t": 186.228,
+   "sfx": "net_struggle",
+   "gain_db": -11.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.8999999999999944,
+    "impact_at": 0.0,
+    "close_at": 0.9199999999999875,
+    "thrash_at": [
+     0.3,
+     0.66,
+     1.08
+    ]
+   },
+   "note": "撞进网 → 网收拢 → 每一下甩尾（水下闷），sky 处硬切成空气",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "cut_at": 187.828,
+   "check": "onset"
+  },
+  {
+   "id": "fx099",
+   "t": 187.828,
+   "sfx": "breach",
+   "gain_db": -9.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "被拖出水：闷声瞬间变成开阔的空气（水泻下、水花、滴水）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "onset"
+  },
+  {
+   "id": "bed100",
+   "t": 187.828,
+   "end": 230.22,
+   "bed": "river_day",
+   "gain_db": -10.0,
+   "fade_in": 0.03,
+   "fade_out": 1.0,
+   "p": {
+    "wind": 0.8,
+    "crowd_env": [
+     [
+      187.828,
+      -40.0
+     ],
+     [
+      190.228,
+      -40.0
+     ],
+     [
+      192.728,
+      0.0
+     ],
+     [
+      204.578,
+      0.0
+     ],
+     [
+      206.578,
+      -8.0
+     ],
+     [
+      223.64,
+      -14.0
+     ]
+    ],
+    "wind_env": [
+     [
+      187.828,
+      3.0
+     ],
+     [
+      188.428,
+      0.0
+     ]
+    ]
+   },
+   "note": "2003 江边白天：风、江水拍岸、远处的船、人群嘈杂（滤波噪声）；sky 时刻瞬间打开",
+   "scene": "s3_2003"
+  },
+  {
+   "id": "fx101",
+   "t": 196.958,
+   "sfx": "mud_steps",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.0999999999999774,
+    "rate": 3.5,
+    "seed": 21
+   },
+   "note": "八个人围上来使劲：脚在泥滩上挪、踩实",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx102",
+   "t": 197.258,
+   "sfx": "cloth_strain",
+   "gain_db": -8.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.8999999999999773,
+    "heaves": 2
+   },
+   "note": "使劲：布与身体的摩擦（没抬动）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx103",
+   "t": 199.158,
+   "sfx": "quilt_throw",
+   "gain_db": -12.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "棉被甩上来盖住她",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "check": "slope"
+  },
+  {
+   "id": "fx106",
+   "t": 199.508,
+   "sfx": "quilt_rustle",
+   "gain_db": -12.0,
+   "pan": 0.1,
+   "p": {
+    "dur": 6.170000000000011
+   },
+   "note": "棉被的沙沙（裹着、抬着、贴着她）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -6.0
+  },
+  {
+   "id": "fx104",
+   "t": 200.158,
+   "sfx": "cloth_strain",
+   "gain_db": -7.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.2,
+    "heaves": 2,
+    "seed": 23
+   },
+   "note": "裹着棉被抬起来：用力感",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx105",
+   "t": 200.308,
+   "sfx": "mud_steps",
+   "gain_db": -13.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 5.420000000000016,
+    "rate": 6.0,
+    "seed": 22
+   },
+   "note": "抬着走：一群人的脚踩在泥滩上",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx107",
+   "t": 205.778,
+   "sfx": "boat_creaks",
+   "gain_db": -12.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 17.561999999999983
+   },
+   "note": "网箱船：木船吱呀、水拍船身",
+   "scene": "s3_2003",
+   "src": "marks",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx108",
+   "t": 206.978,
+   "sfx": "tape_measure",
+   "gain_db": -22.0,
+   "pan": -0.1,
+   "p": {
+    "dur": 1.75
+   },
+   "note": "量体长：钢卷尺拉出（带刻度的墨线沿她身体量过去）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx109",
+   "t": 210.49,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 600
+   },
+   "note": "第 1 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx110",
+   "t": 210.73,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 601
+   },
+   "note": "第 2 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx111",
+   "t": 210.97,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 602
+   },
+   "note": "第 3 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx112",
+   "t": 211.21,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 603
+   },
+   "note": "第 4 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx113",
+   "t": 211.45,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 604
+   },
+   "note": "第 5 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx114",
+   "t": 211.69,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 605
+   },
+   "note": "第 6 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx115",
+   "t": 211.93,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 606
+   },
+   "note": "第 7 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx116",
+   "t": 212.17,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 607
+   },
+   "note": "第 8 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx117",
+   "t": 212.41,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 608
+   },
+   "note": "第 9 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx118",
+   "t": 212.65,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 609
+   },
+   "note": "第 10 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx119",
+   "t": 212.89,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 610
+   },
+   "note": "第 11 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx120",
+   "t": 213.13,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 611
+   },
+   "note": "第 12 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx121",
+   "t": 213.37,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 612
+   },
+   "note": "第 13 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx122",
+   "t": 213.61,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 613
+   },
+   "note": "第 14 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx123",
+   "t": 213.85,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 614
+   },
+   "note": "第 15 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx124",
+   "t": 214.09,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 615
+   },
+   "note": "第 16 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx125",
+   "t": 214.33,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 616
+   },
+   "note": "第 17 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx126",
+   "t": 214.57,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 617
+   },
+   "note": "第 18 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx127",
+   "t": 214.81,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 618
+   },
+   "note": "第 19 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx128",
+   "t": 215.05,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 619
+   },
+   "note": "第 20 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx129",
+   "t": 215.29,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 620
+   },
+   "note": "第 21 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx130",
+   "t": 215.53,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.2400000000000091,
+    "seed": 621
+   },
+   "note": "第 22 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx131",
+   "t": 215.77,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.23999999999998067,
+    "seed": 622
+   },
+   "note": "第 23 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx132",
+   "t": 216.01,
+   "sfx": "stitch",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "interval": 0.24,
+    "seed": 623
+   },
+   "note": "第 24 针：穿刺 + 拉线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx133",
+   "t": 216.36,
+   "sfx": "snip",
+   "gain_db": -16.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "打结、剪线",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "check": "slope"
+  },
+  {
+   "id": "fx134",
+   "t": 218.76,
+   "sfx": "tag_click",
+   "gain_db": -12.0,
+   "pan": 0.1,
+   "p": {},
+   "note": "信标扣上背的咔哒",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "check": "slope"
+  },
+  {
+   "id": "fx135",
+   "t": 219.37,
+   "sfx": "beacon_ping",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "mode": "air"
+   },
+   "note": "信标「嘀」第 1 声（船上）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx136",
+   "t": 221.37,
+   "sfx": "beacon_ping",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "mode": "air"
+   },
+   "note": "信标「嘀」第 2 声（船上）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx137",
+   "t": 223.37,
+   "sfx": "beacon_ping",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "mode": "air"
+   },
+   "note": "信标「嘀」第 3 声（船上）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx145",
+   "t": 223.64,
+   "sfx": "release_splash",
+   "gain_db": -11.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "放流：她滑进江里（入水 + 水花 + 翻涌）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "slope"
+  },
+  {
+   "id": "fx138",
+   "t": 225.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 4 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx146",
+   "t": 226.79,
+   "sfx": "swirl_turn",
+   "gain_db": -20.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.8
+   },
+   "note": "她在下游折返、转身往上游（江面一道水被带转）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "cut_at": 237.6
+  },
+  {
+   "id": "fx139",
+   "t": 227.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 5 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "bed147",
+   "t": 228.72,
+   "end": 243.73,
+   "bed": "river_night",
+   "gain_db": -11.0,
+   "fade_in": 1.2,
+   "fade_out": 2.2,
+   "p": {
+    "rock_at": [
+     237.6
+    ]
+   },
+   "note": "夜江：安静的水拍船身；触礁后船身摇晃、之后只剩水拍船",
+   "scene": "s3_2003"
+  },
+  {
+   "id": "fx140",
+   "t": 229.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 6 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx148",
+   "t": 229.62,
+   "sfx": "diesel_boat",
+   "gain_db": -8.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 8.57999999999999,
+    "fade_in": 0.6
+   },
+   "note": "跟踪船的柴油机「突突」（近，在 B1/B2 身后），触礁处硬切",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -7.0,
+   "cut_at": 237.6
+  },
+  {
+   "id": "fx149",
+   "t": 229.92,
+   "sfx": "receiver_hiss",
+   "gain_db": -24.0,
+   "pan": 0.25,
+   "p": {
+    "dur": 7.97999999999999
+   },
+   "note": "接收机的细微电子声",
+   "scene": "s3_2003",
+   "src": "marks",
+   "duck_db": -6.0,
+   "cut_at": 237.6
+  },
+  {
+   "id": "fx141",
+   "t": 231.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 7 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx142",
+   "t": 233.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 8 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx143",
+   "t": 235.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 9 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx144",
+   "t": 237.37,
+   "sfx": "beacon_ping",
+   "gain_db": -28.5,
+   "pan": 0.0,
+   "p": {
+    "mode": "uw"
+   },
+   "note": "信标「嘀」第 10 声（放流后水下：水下滤波 + 微混响）",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "cut_at": 237.6,
+   "check": "onset"
+  },
+  {
+   "id": "fx150",
+   "t": 237.6,
+   "sfx": "crash",
+   "gain_db": -4.5,
+   "pan": 0.0,
+   "p": {},
+   "note": "触礁：木头与金属撞击、螺旋桨打石头、船身摇晃的水，嘀声断在这一刻；之后引擎熄火",
+   "scene": "s3_2003",
+   "src": "visual_events",
+   "duck_db": -6.0,
+   "check": "onset"
+  },
+  {
+   "id": "bed151",
+   "t": 241.73,
+   "end": 283.621,
+   "bed": "uw_river",
+   "gain_db": -12.0,
+   "fade_in": 2.0,
+   "fade_out": 1.6,
+   "p": {
+    "master_env": [
+     [
+      241.73000000000002,
+      -16.0
+     ],
+     [
+      250.58,
+      -15.0
+     ],
+     [
+      253.32999999999998,
+      -1.0
+     ],
+     [
+      254.13,
+      0.0
+     ]
+    ]
+   },
+   "note": "她在金鸡尾停下来（极静的水下）→ 墨洇开，江水涨起来接 S4",
+   "scene": "s3_2003→s4_seven"
+  },
+  {
+   "id": "fx152",
+   "t": 253.93,
+   "sfx": "beacon_ping",
+   "gain_db": -31.0,
+   "pan": 0.0,
+   "p": {
+    "mode": "far",
+    "seed": 250
+   },
+   "note": "她背上旧信标的「嘀」：极远、极弱（第 1 声，强度 1）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx153",
+   "t": 255.93,
+   "sfx": "beacon_ping",
+   "gain_db": -32.41162148571414,
+   "pan": 0.0,
+   "p": {
+    "mode": "far",
+    "seed": 251
+   },
+   "note": "她背上旧信标的「嘀」：极远、极弱（第 2 声，强度 0.85）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx154",
+   "t": 257.93,
+   "sfx": "beacon_ping",
+   "gain_db": -35.43697499232713,
+   "pan": 0.0,
+   "p": {
+    "mode": "far",
+    "seed": 252
+   },
+   "note": "她背上旧信标的「嘀」：极远、极弱（第 3 声，强度 0.6）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx155",
+   "t": 259.5,
+   "sfx": "beacon_ping",
+   "gain_db": -42.05683937315561,
+   "pan": 0.0,
+   "p": {
+    "mode": "far",
+    "seed": 253
+   },
+   "note": "她背上旧信标的「嘀」：极远、极弱（第 4 声，强度 0.28，最后一声，之后再没有了）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx157",
+   "t": 267.441,
+   "sfx": "small_boat",
+   "gain_db": -18.0,
+   "pan": 0.0,
+   "p": {
+    "t_arrive": 2.1000000000000227,
+    "t_leave": 2.1000000000000227,
+    "recede": 2.9000000000000226,
+    "f_fire": 21.0,
+    "seed": 260
+   },
+   "note": "第 1 次：一条船很快地从头顶开过去（隔着水，像回忆）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx156",
+   "t": 268.041,
+   "sfx": "electro_sparkle",
+   "gain_db": -27.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 15.980000000000018,
+    "density": 7.0,
+    "wave": 0.4,
+    "fade_out": 1.4,
+    "twinkle": 0.3,
+    "seed": 255
+   },
+   "note": "电感视觉打开：一圈很轻的波 + 稀疏的闪烁（一直接到 S5 的电感）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx158",
+   "t": 270.641,
+   "sfx": "small_boat",
+   "gain_db": -18.0,
+   "pan": 0.0,
+   "p": {
+    "t_arrive": 1.8999999999999773,
+    "t_leave": 1.8999999999999773,
+    "recede": 2.699999999999977,
+    "f_fire": 24.5,
+    "seed": 261
+   },
+   "note": "第 2 次：一条船很快地从头顶开过去（隔着水，像回忆）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx159",
+   "t": 272.331,
+   "sfx": "small_boat",
+   "gain_db": -15.0,
+   "pan": 0.0,
+   "p": {
+    "t_arrive": 2.8000000000000114,
+    "t_leave": 7.990000000000009,
+    "recede": 4.0,
+    "seed": 263
+   },
+   "note": "第三次：船减速、停在她头顶（引擎闷声隔着水），水听器收上去后开走",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx160",
+   "t": 274.831,
+   "sfx": "cable_creak",
+   "gain_db": -22.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.2000000000000113
+   },
+   "note": "放下缆绳（闷吱呀）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx161",
+   "t": 274.951,
+   "sfx": "hydro_plop",
+   "gain_db": -16.0,
+   "pan": 0.1,
+   "p": {},
+   "note": "水听器入水的一声轻响（从水下听）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx162",
+   "t": 279.421,
+   "sfx": "cable_creak",
+   "gain_db": -22.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.9000000000000001,
+    "seed": 77
+   },
+   "note": "收缆",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx163",
+   "t": 280.781,
+   "sfx": "hydro_plop",
+   "gain_db": -19.0,
+   "pan": 0.1,
+   "p": {
+    "out": true
+   },
+   "note": "水听器被拉出水面（拉到头的那一下）",
+   "scene": "s4_seven",
+   "src": "visual_events",
+   "check": "slope"
+  },
+  {
+   "id": "bed164",
+   "t": 282.021,
+   "end": 335.012,
+   "bed": "uw_river",
+   "gain_db": -12.0,
+   "fade_in": 1.6,
+   "fade_out": 1.6,
+   "p": {
+    "flow": 1.1
+   },
+   "note": "水下江底床（对话中只有水）",
+   "scene": "s5_sturgeon"
+  },
+  {
+   "id": "fx165",
+   "t": 282.821,
+   "sfx": "electro_sparkle",
+   "gain_db": -20.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 8.789999999999953,
+    "density": 11.0,
+    "wave": 0.0,
+    "fade_out": 0.05,
+    "twinkle": 0.5
+   },
+   "note": "电感视觉里远处一团光：稀疏的电感闪烁（S1 同一套声音语言），reveal 处随视角硬切",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "cut_at": 291.311
+  },
+  {
+   "id": "fx166",
+   "t": 283.793,
+   "sfx": "heart",
+   "gain_db": -10.0,
+   "pan": 0.0,
+   "p": {
+    "beats_at": [
+     283.793,
+     284.988,
+     285.855,
+     286.674,
+     287.493,
+     288.212,
+     288.801,
+     289.366,
+     289.931,
+     290.496,
+     291.061
+    ],
+    "amps": [
+     0.5493807103999983,
+     0.6623038375851831,
+     0.7,
+     0.7,
+     0.7121778545777798,
+     0.8946879198222252,
+     0.9999601777777778,
+     1.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   },
+   "note": "far_glow 起她的心跳：低沉、越来越快（冲过去时最快），reveal 前最后一下",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx167",
+   "t": 287.311,
+   "sfx": "water_rush",
+   "gain_db": -8.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 4.0
+   },
+   "note": "她冲过去的水流",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -6.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx168",
+   "t": 291.311,
+   "sfx": "presence_push",
+   "gain_db": -9.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.2
+   },
+   "note": "老鲟从浑水里露出来：大物体推水的低沉存在感",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -5.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx169",
+   "t": 291.511,
+   "sfx": "uw_whoosh",
+   "gain_db": -18.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.5,
+    "tpk": 0.5,
+    "size": 1.7,
+    "bright": 0.75,
+    "pan_from": 0.5,
+    "pan_to": 0.05,
+    "seed": 151
+   },
+   "note": "老鲟慢慢游近（很大、很慢的推水）",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "peak"
+  },
+  {
+   "id": "fx170",
+   "t": 304.313,
+   "sfx": "electro_sparkle",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 5.253999999999962,
+    "density": 9.0,
+    "wave": 0.45,
+    "fade_out": 0.8,
+    "twinkle": 0.35,
+    "seed": 171
+   },
+   "note": "回忆的波（电感）：一圈很轻的波 + 稀疏闪烁（压在台词下面）",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx171",
+   "t": 317.737,
+   "sfx": "electro_sparkle",
+   "gain_db": -25.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 5.110000000000014,
+    "density": 9.0,
+    "wave": 0.3,
+    "fade_out": 0.8,
+    "twinkle": 0.35,
+    "seed": 174
+   },
+   "note": "透过身体看见卵（电感）：一圈很轻的波 + 稀疏闪烁（压在台词下面）",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx172",
+   "t": 325.942,
+   "sfx": "swim_away",
+   "gain_db": -13.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.4,
+    "side": -1.0
+   },
+   "note": "老鲟转身：尾鳍一拍 + 漩涡",
+   "scene": "s5_sturgeon",
+   "src": "marks",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx173",
+   "t": 328.142,
+   "sfx": "uw_whoosh",
+   "gain_db": -10.245112497836532,
+   "pan": 0.0,
+   "p": {
+    "dur": 4.0,
+    "tpk": 0.5,
+    "size": 1.6,
+    "bright": 0.8,
+    "pan_from": 0.35,
+    "pan_to": -0.75,
+    "seed": 171
+   },
+   "note": "老鲟从身边擦过、没入浑水（最近处）",
+   "scene": "s5_sturgeon",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "peak"
+  },
+  {
+   "id": "bed174",
+   "t": 333.412,
+   "end": 382.462,
+   "bed": "uw_river",
+   "gain_db": -12.0,
+   "fade_in": 1.6,
+   "fade_out": 1.6,
+   "p": {
+    "city": 1.0,
+    "traffic": 1.0,
+    "city_env": [
+     [
+      353.552,
+      0.0
+     ],
+     [
+      357.842,
+      -18.0
+     ]
+    ],
+    "traffic_env": [
+     [
+      353.202,
+      0.0
+     ],
+     [
+      357.09200000000004,
+      -4.0
+     ],
+     [
+      357.992,
+      -35.0
+     ]
+    ],
+    "master_env": [
+     [
+      353.202,
+      0.0
+     ],
+     [
+      357.842,
+      -5.0
+     ],
+     [
+      362.342,
+      -5.0
+     ],
+     [
+      368.342,
+      -3.5
+     ]
+    ]
+   },
+   "note": "宜宾夜：水下听到的城市低频嗡鸣 + 桥上车流的远雷；延时里城里的灯一盏盏熄、嗡鸣一层层退，桥灯熄时车流的远雷也断了",
+   "scene": "s6_yibin"
+  },
+  {
+   "id": "fx175",
+   "t": 340.512,
+   "sfx": "uw_whoosh",
+   "gain_db": -12.279328213174445,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.0,
+    "tpk": 0.5,
+    "size": 1.2,
+    "bright": 0.95,
+    "pan_from": -0.5,
+    "pan_to": 0.5,
+    "seed": 341
+   },
+   "note": "她穿过两江分界（两股水的交界，身体推开水）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "peak"
+  },
+  {
+   "id": "fx176",
+   "t": 345.172,
+   "sfx": "electro_sparkle",
+   "gain_db": -26.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 8.229999999999961,
+    "density": 8.0,
+    "wave": 0.4,
+    "fade_out": 0.8,
+    "twinkle": 0.35,
+    "seed": 345
+   },
+   "note": "回忆的电感视觉：一圈很轻的波 + 稀疏闪烁（压在台词下面）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx177",
+   "t": 346.822,
+   "sfx": "uw_whoosh",
+   "gain_db": -27.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.6,
+    "tpk": 0.35,
+    "size": 1.0,
+    "bright": 0.7,
+    "pan_from": -0.6,
+    "pan_to": 0.3,
+    "seed": 346
+   },
+   "note": "第 1 条白鲟的影子游过（极轻、很远的推水）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx178",
+   "t": 349.122,
+   "sfx": "uw_whoosh",
+   "gain_db": -27.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.6,
+    "tpk": 0.35,
+    "size": 1.0,
+    "bright": 0.7,
+    "pan_from": 0.5,
+    "pan_to": -0.5,
+    "seed": 347
+   },
+   "note": "第 2 条白鲟的影子游过（极轻、很远的推水）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx179",
+   "t": 350.922,
+   "sfx": "uw_whoosh",
+   "gain_db": -27.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 2.6,
+    "tpk": 0.35,
+    "size": 1.0,
+    "bright": 0.7,
+    "pan_from": -0.2,
+    "pan_to": 0.6,
+    "seed": 348
+   },
+   "note": "第 3 条白鲟的影子游过（极轻、很远的推水）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx180",
+   "t": 358.242,
+   "sfx": "electro_sparkle",
+   "gain_db": -30.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 4.099999999999966,
+    "density": 3.0,
+    "wave": 0.25,
+    "fade_out": 1.0,
+    "twinkle": 0.1,
+    "seed": 358
+   },
+   "note": "电感视觉：四周是空的（闪烁极稀）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx181",
+   "t": 362.842,
+   "sfx": "eggs_snow",
+   "gain_db": -10.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 9.5
+   },
+   "note": "产卵：成千上万颗卵像雪一样散开（柔软、细密，不叮当）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx182",
+   "t": 362.962,
+   "sfx": "uw_whoosh",
+   "gain_db": -26.92256071356476,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 362
+   },
+   "note": "第 1 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx183",
+   "t": 363.582,
+   "sfx": "uw_whoosh",
+   "gain_db": -24.643693667428025,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 363
+   },
+   "note": "第 2 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx184",
+   "t": 364.202,
+   "sfx": "uw_whoosh",
+   "gain_db": -24.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 364
+   },
+   "note": "第 3 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx185",
+   "t": 364.822,
+   "sfx": "uw_whoosh",
+   "gain_db": -24.98436045340363,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 365
+   },
+   "note": "第 4 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx186",
+   "t": 365.442,
+   "sfx": "uw_whoosh",
+   "gain_db": -26.92256071356476,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 366
+   },
+   "note": "第 5 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx189",
+   "t": 365.482,
+   "sfx": "warm_glow",
+   "gain_db": -11.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 8.0,
+    "attack": 2.2
+   },
+   "note": "卵在电感视觉里亮起：轻微的温暖质感（和声交给配乐）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx187",
+   "t": 366.062,
+   "sfx": "uw_whoosh",
+   "gain_db": -29.42133544573076,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 367
+   },
+   "note": "第 6 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx188",
+   "t": 366.682,
+   "sfx": "uw_whoosh",
+   "gain_db": -33.858310438057885,
+   "pan": 0.0,
+   "p": {
+    "dur": 0.9,
+    "tpk": 0.25,
+    "size": 0.45,
+    "bright": 1.0,
+    "pan_from": -0.15,
+    "pan_to": 0.15,
+    "seed": 368
+   },
+   "note": "第 7 股卵推出去的一下软水流",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "duck_db": -4.0
+  },
+  {
+   "id": "fx190",
+   "t": 372.282,
+   "sfx": "egg_dim",
+   "gain_db": -29.0,
+   "pan": 0.0,
+   "p": {
+    "seed": 700
+   },
+   "note": "一颗卵暗下去（第 1 声，极轻；画面熄的比这多，宁可少）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx191",
+   "t": 373.402,
+   "sfx": "egg_dim",
+   "gain_db": -29.0,
+   "pan": 0.0,
+   "p": {
+    "seed": 701
+   },
+   "note": "一颗卵暗下去（第 2 声，极轻；画面熄的比这多，宁可少）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx192",
+   "t": 374.082,
+   "sfx": "egg_dim",
+   "gain_db": -29.0,
+   "pan": 0.0,
+   "p": {
+    "seed": 702
+   },
+   "note": "一颗卵暗下去（第 3 声，极轻；画面熄的比这多，宁可少）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx193",
+   "t": 374.332,
+   "sfx": "egg_dim",
+   "gain_db": -29.0,
+   "pan": 0.0,
+   "p": {
+    "seed": 703
+   },
+   "note": "一颗卵暗下去（第 4 声，极轻；画面熄的比这多，宁可少）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx194",
+   "t": 374.742,
+   "sfx": "egg_dim",
+   "gain_db": -29.0,
+   "pan": 0.0,
+   "p": {
+    "seed": 704
+   },
+   "note": "一颗卵暗下去（第 5 声，极轻；画面熄的比这多，宁可少）",
+   "scene": "s6_yibin",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "bed195",
+   "t": 380.862,
+   "end": 411.192,
+   "bed": "uw_river",
+   "gain_db": -12.0,
+   "fade_in": 1.6,
+   "fade_out": 2.9,
+   "p": {
+    "gravel_env": [
+     [
+      400.492,
+      0.0
+     ],
+     [
+      401.692,
+      -45.0
+     ]
+    ],
+    "hush_env": [
+     [
+      401.29200000000003,
+      0.0
+     ],
+     [
+      403.992,
+      -45.0
+     ]
+    ],
+    "rumble_env": [
+     [
+      402.492,
+      0.0
+     ],
+     [
+      406.592,
+      -30.0
+     ],
+     [
+      408.192,
+      -45.0
+     ]
+    ],
+    "flow_env": [
+     [
+      400.492,
+      0.0
+     ],
+     [
+      408.192,
+      -3.0
+     ],
+     [
+      410.992,
+      -30.0
+     ]
+    ]
+   },
+   "note": "lights_out 之后环境一层层变薄（砾石 → 湍动 → 轰鸣），black 之后只剩江水，淡到 S7 结束",
+   "scene": "s7_end"
+  },
+  {
+   "id": "fx196",
+   "t": 381.662,
+   "sfx": "sink_settle",
+   "gain_db": -12.0,
+   "pan": 0.0,
+   "p": {
+    "t_contact": 5.2000000000000455
+   },
+   "note": "她慢慢沉下去，腹部碰到卵石（软闷响 + 卵石细碎声 + 一小团泥沙）",
+   "scene": "s7_end",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "sub": [
+    {
+     "label": "腹部碰到卵石",
+     "t": 386.862,
+     "kind": "slope"
+    }
+   ]
+  },
+  {
+   "id": "fx199",
+   "t": 381.848,
+   "sfx": "heart",
+   "gain_db": -12.0,
+   "pan": 0.0,
+   "p": {
+    "beats_at": [
+     381.848,
+     383.049,
+     384.25,
+     385.451,
+     386.653,
+     387.856,
+     389.061,
+     390.268,
+     391.478,
+     392.694,
+     393.917,
+     395.152,
+     396.406,
+     397.688,
+     399.016,
+     400.421,
+     401.963,
+     403.792,
+     406.592
+    ],
+    "amps": [
+     0.62,
+     0.6033333333333333,
+     0.5866666666666667,
+     0.57,
+     0.5533333333333333,
+     0.5366666666666666,
+     0.52,
+     0.5033333333333333,
+     0.4866666666666667,
+     0.47,
+     0.45333333333333337,
+     0.43666666666666665,
+     0.42000000000000004,
+     0.4033333333333333,
+     0.38666666666666666,
+     0.37,
+     0.35333333333333333,
+     0.33666666666666667,
+     0.45
+    ]
+   },
+   "note": "她的心跳越来越慢、越来越轻，last_pulse 是最后一下",
+   "scene": "s7_end",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset",
+   "sub": [
+    {
+     "label": "last_pulse",
+     "t": 406.592,
+     "kind": "slope"
+    }
+   ]
+  },
+  {
+   "id": "fx198",
+   "t": 382.262,
+   "sfx": "gill_breaths",
+   "gain_db": -22.0,
+   "pan": 0.0,
+   "p": {
+    "times": [
+     382.262,
+     384.662,
+     387.27799999999996,
+     390.12944,
+     393.2375096,
+     396.625305464,
+     400.31800295576
+    ],
+    "amps": [
+     0.965,
+     0.9299999999999999,
+     0.895,
+     0.86,
+     0.825,
+     0.79,
+     0.755
+    ],
+    "lens": [
+     1.35,
+     1.4000000000000001,
+     1.4500000000000002,
+     1.5,
+     1.55,
+     1.6,
+     1.6500000000000001
+    ]
+   },
+   "note": "越来越慢的呼吸/鳃动",
+   "scene": "s7_end",
+   "src": "marks",
+   "duck_db": -3.0
+  },
+  {
+   "id": "fx197",
+   "t": 390.162,
+   "sfx": "bottom_touch",
+   "gain_db": -20.0,
+   "pan": 0.0,
+   "p": {
+    "strength": 0.5
+   },
+   "note": "长吻轻轻搭到一块石头上（很小的一下）",
+   "scene": "s7_end",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx200",
+   "t": 399.592,
+   "sfx": "electro_sparkle",
+   "gain_db": -24.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 3.800000000000068,
+    "density": 10.0,
+    "wave": 0.3,
+    "fade_out": 2.900000000000034,
+    "twinkle": 0.4,
+    "seed": 399
+   },
+   "note": "最后一次电感视觉：闪烁随着她的光一盏盏熄掉变稀、消失",
+   "scene": "s7_end",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "bed201",
+   "t": 411.192,
+   "end": 476.792,
+   "bed": "paper_room",
+   "gain_db": -36.0,
+   "fade_in": 1.5,
+   "fade_out": 2.5,
+   "p": {},
+   "note": "尾声几乎无环境：只有极淡的一点空气（纸和笔在前面）",
+   "scene": "s8_epilogue"
+  },
+  {
+   "id": "fx202",
+   "t": 411.192,
+   "sfx": "paper_breath",
+   "gain_db": -24.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 1.4,
+    "body": 0.6
+   },
+   "note": "宣纸淡入（比长卷更素）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "duck_db": -3.0,
+   "check": "onset"
+  },
+  {
+   "id": "fx203",
+   "t": 412.692,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.1337883938886648,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 800
+   },
+   "note": "「有鳣有鲔」有 第 1 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx204",
+   "t": 412.864,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.1199277273685766,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 801
+   },
+   "note": "「有鳣有鲔」有 第 2 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx205",
+   "t": 413.022,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.10186140055492388,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 802
+   },
+   "note": "「有鳣有鲔」有 第 3 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx206",
+   "t": 413.163,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.18247849013914674,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 803
+   },
+   "note": "「有鳣有鲔」有 第 4 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx207",
+   "t": 413.377,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 804
+   },
+   "note": "「有鳣有鲔」有 第 5 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx208",
+   "t": 413.438,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 805
+   },
+   "note": "「有鳣有鲔」有 第 6 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx209",
+   "t": 413.579,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.07424891388870947,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 806
+   },
+   "note": "「有鳣有鲔」鳣 第 7 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx210",
+   "t": 413.68,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.07824905701124862,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 807
+   },
+   "note": "「有鳣有鲔」鳣 第 8 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx211",
+   "t": 413.784,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.05963504230237504,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 808
+   },
+   "note": "「有鳣有鲔」鳣 第 9 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx212",
+   "t": 413.873,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.1141762079252544,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 809
+   },
+   "note": "「有鳣有鲔」鳣 第 10 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx213",
+   "t": 414.014,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 810
+   },
+   "note": "「有鳣有鲔」鳣 第 11 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx214",
+   "t": 414.064,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 811
+   },
+   "note": "「有鳣有鲔」鳣 第 12 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx215",
+   "t": 414.129,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 812
+   },
+   "note": "「有鳣有鲔」鳣 第 13 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx216",
+   "t": 414.189,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.06878657444843839,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 813
+   },
+   "note": "「有鳣有鲔」鳣 第 14 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx217",
+   "t": 414.304,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.05278957706781284,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 814
+   },
+   "note": "「有鳣有鲔」鳣 第 15 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx218",
+   "t": 414.385,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.0768241663344611,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 815
+   },
+   "note": "「有鳣有鲔」鳣 第 16 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx219",
+   "t": 414.498,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.06205143926729306,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 816
+   },
+   "note": "「有鳣有鲔」鳣 第 17 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx220",
+   "t": 414.589,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.13106372750746687,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 817
+   },
+   "note": "「有鳣有鲔」鳣 第 18 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx221",
+   "t": 414.751,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.05168556082554687,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 818
+   },
+   "note": "「有鳣有鲔」鳣 第 19 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx222",
+   "t": 414.826,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.05566045577967316,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 819
+   },
+   "note": "「有鳣有鲔」鳣 第 20 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx223",
+   "t": 414.904,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 820
+   },
+   "note": "「有鳣有鲔」鳣 第 21 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx224",
+   "t": 414.955,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 821
+   },
+   "note": "「有鳣有鲔」鳣 第 22 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx225",
+   "t": 415.021,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.0535907799747406,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 822
+   },
+   "note": "「有鳣有鲔」鳣 第 23 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx226",
+   "t": 415.101,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.11283497044695423,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 823
+   },
+   "note": "「有鳣有鲔」鳣 第 24 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx227",
+   "t": 415.241,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 824
+   },
+   "note": "「有鳣有鲔」鳣 第 25 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx228",
+   "t": 415.295,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 825
+   },
+   "note": "「有鳣有鲔」鳣 第 26 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx229",
+   "t": 415.36,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.1016531518081365,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 826
+   },
+   "note": "「有鳣有鲔」鳣 第 27 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx230",
+   "t": 415.567,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.13407519235460086,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 827
+   },
+   "note": "「有鳣有鲔」有 第 28 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx231",
+   "t": 415.739,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.12021452583451264,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 828
+   },
+   "note": "「有鳣有鲔」有 第 29 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx232",
+   "t": 415.897,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.10214819902085992,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 829
+   },
+   "note": "「有鳣有鲔」有 第 30 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx233",
+   "t": 416.038,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.1827652886050828,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 830
+   },
+   "note": "「有鳣有鲔」有 第 31 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx234",
+   "t": 416.252,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 831
+   },
+   "note": "「有鳣有鲔」有 第 32 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx235",
+   "t": 416.314,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 832
+   },
+   "note": "「有鳣有鲔」有 第 33 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx236",
+   "t": 416.454,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.07411857027994984,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 833
+   },
+   "note": "「有鳣有鲔」鲔 第 34 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx237",
+   "t": 416.555,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.08150483080265758,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 834
+   },
+   "note": "「有鳣有鲔」鲔 第 35 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx238",
+   "t": 416.663,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.059511738073410925,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 835
+   },
+   "note": "「有鳣有鲔」鲔 第 36 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx239",
+   "t": 416.752,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.12285998985237256,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 836
+   },
+   "note": "「有鳣有鲔」鲔 第 37 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx240",
+   "t": 416.903,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 837
+   },
+   "note": "「有鳣有鲔」鲔 第 38 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx241",
+   "t": 416.956,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 838
+   },
+   "note": "「有鳣有鲔」鲔 第 39 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx242",
+   "t": 417.022,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 839
+   },
+   "note": "「有鳣有鲔」鲔 第 40 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx243",
+   "t": 417.089,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.06838653502779835,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 840
+   },
+   "note": "「有鳣有鲔」鲔 第 41 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx244",
+   "t": 417.194,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.08360864085801722,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 841
+   },
+   "note": "「有鳣有鲔」鲔 第 42 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx245",
+   "t": 417.311,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.10646320788060848,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 842
+   },
+   "note": "「有鳣有鲔」鲔 第 43 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx246",
+   "t": 417.444,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.15,
+   "p": {
+    "dur": 0.09200083587518293,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 843
+   },
+   "note": "「有鳣有鲔」鲔 第 44 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx247",
+   "t": 417.573,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.15,
+   "p": {
+    "dur": 0.16412455722507957,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 844
+   },
+   "note": "「有鳣有鲔」鲔 第 45 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx248",
+   "t": 417.768,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": -0.05,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 845
+   },
+   "note": "「有鳣有鲔」鲔 第 46 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx249",
+   "t": 417.817,
+   "sfx": "brush_stroke",
+   "gain_db": -14.0,
+   "pan": 0.04999999999999999,
+   "p": {
+    "dur": 0.05,
+    "pressure": 0.9,
+    "dry": 0.15,
+    "size": 1.3,
+    "seed": 846
+   },
+   "note": "「有鳣有鲔」鲔 第 47 笔（浓墨）",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx250",
+   "t": 467.012,
+   "sfx": "drop_on_paper",
+   "gain_db": -13.0,
+   "pan": 0.0,
+   "p": {},
+   "note": "一滴水落在「鲔」字上",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "check": "onset"
+  },
+  {
+   "id": "fx251",
+   "t": 467.062,
+   "sfx": "ink_bleed",
+   "gain_db": -9.0,
+   "pan": 0.0,
+   "p": {
+    "dur": 5.180000000000007,
+    "wash_from": 1.0,
+    "wash_to": 4.380000000000007
+   },
+   "note": "墨被水晕开、变淡、被冲走的湿声",
+   "scene": "s8_epilogue",
+   "src": "visual_events",
+   "duck_db": -3.0
+  }
+ ]
+}
