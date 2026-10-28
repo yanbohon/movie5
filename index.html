@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>鲔</title>
+<link rel="icon" href="data:," />
+<style>
+  @font-face { font-family: 'FilmSans'; src: url('./fonts/sans.woff2') format('woff2'); font-weight: 100 900; font-display: block; }
+  @font-face { font-family: 'FilmSerif'; src: url('./fonts/serif.woff2') format('woff2'); font-weight: 200 900; font-display: block; }
+  @font-face { font-family: 'FilmKai'; src: url('./fonts/kai.woff2') format('woff2'); font-display: block; }
+  @font-face { font-family: 'FilmMono'; src: url('./fonts/mono.woff2') format('woff2'); font-weight: 100 800; font-display: block; }
+  :root { --fg: #e9e4da; --dim: #7d7a74; --gold: #c9b27a; --bg: #000; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg); overflow: hidden; }
+  body { font-family: 'FilmSans', 'PingFang SC', sans-serif; }
+  #stage { position: fixed; inset: 0; display: flex; align-items: center; justify-content: center; }
+  #film { width: 100vw; height: 100vh; object-fit: contain; display: block; background: #000; }
+  #gate { position: fixed; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 28px;
+          background: #000; cursor: pointer; transition: opacity 1.2s ease; z-index: 5; }
+  #gate h1 { font-family: 'FilmSerif', serif; font-weight: 600; font-size: clamp(44px, 7vw, 96px); letter-spacing: 0.4em; margin: 0 0 0 0.4em; }
+  #gate .en { font-family: 'FilmMono', monospace; font-size: 13px; letter-spacing: 0.6em; color: var(--dim); margin-left: 0.6em; }
+  #gate .hint { font-size: 14px; letter-spacing: 0.3em; color: var(--dim); }
+  #gate .bar { width: min(320px, 60vw); height: 1px; background: #222; position: relative; overflow: hidden; }
+  #gate .bar i { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--gold); transition: width 0.3s; }
+  #gate.ready .hint { color: var(--fg); }
+  #gate.hide { opacity: 0; pointer-events: none; }
+  #hud { position: fixed; left: 0; right: 0; bottom: 0; height: 56px; display: flex; align-items: center; gap: 14px; padding: 0 20px;
+         font-family: 'FilmMono', monospace; font-size: 12px; color: #aaa; background: linear-gradient(transparent, rgba(0,0,0,0.7));
+         opacity: 0; transition: opacity 0.4s; z-index: 4; }
+  #hud:hover, body.paused #hud { opacity: 1; }
+  #hud .track { flex: 1; height: 3px; background: rgba(255,255,255,0.15); position: relative; cursor: pointer; }
+  #hud .track i { position: absolute; left: 0; top: 0; bottom: 0; background: var(--gold); }
+  #hud button { background: none; border: 1px solid #555; color: #ddd; font: inherit; padding: 4px 10px; cursor: pointer; }
+  @media (max-width: 640px) { #hud { padding: 0 16px; } }
+</style>
+</head>
+<body>
+<div id="stage"><canvas id="film"></canvas></div>
+<div id="gate">
+  <h1>鲔</h1>
+  <div class="en">THE LAST PADDLEFISH</div>
+  <div class="bar"><i></i></div>
+  <div class="hint">载入中</div>
+</div>
+<div id="hud"><button id="pp">暂停</button><span id="tc">00:00</span><div class="track" id="track"><i></i></div><span>空格 暂停 · ← → 跳 5 秒 · F 全屏</span></div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

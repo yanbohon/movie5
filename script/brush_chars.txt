@@ -1,0 +1,3 @@
+# 书法引擎（src/film/brush.js）要用到的字。一行若干字，# 开头是注释。
+# 加字后运行：node tools/extract_hanzi.mjs  （会重写 src/data/hanzi.json）
+鲔白鲟象鱼有鳣
